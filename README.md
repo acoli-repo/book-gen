@@ -4,7 +4,7 @@ This repository contains the main components of "Beta Writer", the algorithmic a
 ---
 ## Installation
 
-# 1.) Required dependencies:
+### Required dependencies:
 ```
 brew install python3
 pip3 install numpy
@@ -15,9 +15,10 @@ pip3 install pandas
 pip3 install gensim
 ```
 
-# 2.) Download theanets .zip from [here](https://github.com/lmjohns3/theanets)
+### Download theanets .zip from [here](https://github.com/lmjohns3/theanets)
 Alternatively: 
-```wget https://github.com/lmjohns3/theanets/archive/master.zip
+```
+wget https://github.com/lmjohns3/theanets/archive/master.zip
 python3 setup.py install
 ```
 
