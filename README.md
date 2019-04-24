@@ -9,6 +9,7 @@ The script <b>pipeline.sh</b> contains all modules for end-to-end book generatio
 ## Components and Scripts
 
 ## License
+This project is open source software and released under the [MIT license](https://opensource.org/licenses/MIT).
 
 
 ## Additional Information
