@@ -15,7 +15,7 @@ pip3 install pandas
 pip3 install gensim
 ```
 
-### Download theanets .zip from [here](https://github.com/lmjohns3/theanets)
+### Download theanets from [here](https://github.com/lmjohns3/theanets)
 Alternatively: 
 ```
 wget https://github.com/lmjohns3/theanets/archive/master.zip
