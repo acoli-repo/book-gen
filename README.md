@@ -13,7 +13,7 @@ This repository contains the main components of "Beta Writer", the algorithmic a
 
 Note that "Beta Writer" has originally been tailored to consume and process Springer custom-specific document type formats ([A++](http://devel.springer.de/A++/V2.4/DTD/)) and does not (yet) support generic PDF.
 
-Currently, we therefore provide only the scripts for major text processing task including:
+Currently, we therefore provide only the scripts for the major text processing tasks including:
 
 * Preprocessing (entity masking)
 * Document clustering (chapter generation)
