@@ -18,9 +18,9 @@ Note that "Beta Writer" has originally been tailored to consume and process Spri
 We currently provide only the scripts for the major text processing tasks including:
 
 * Preprocessing (entity masking)
-* Document clustering (chapter generation)
+* Document clustering (chapter generation) and visualization
 * Syntactic restructuring (paraphrasing)
 * Synonym generation
 
-Moreover, we do not host the third-party software employed in the full pipeline, such as parsers, taggers, summarizers, because "Beta Writer" does not depend on any specific library. Appropriate pointers in the respective places of the pipeline indicate where external tools can be integrated. For this purpose, you should define your own wrappers.
 
+Moreover, we do not host the third-party software employed in the full pipeline, such as [parsers](https://stanfordnlp.github.io/CoreNLP/), [taggers](https://stanfordnlp.github.io/CoreNLP/), [summarizers](https://github.com/summanlp/textrank), because "Beta Writer" work genericly and does not depend on any specific NLP library. Appropriate pointers in the respective places of the pipeline indicate where a variety of different external tools can be integrated. (For this purpose, you should define your own wrappers.) For implementational details and the actual components used, please refer to our [system pipeline description in Section 2.3.](https://link.springer.com/content/pdf/bfm%3A978-3-030-16800-1%2F1.pdf).
