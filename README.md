@@ -2,6 +2,26 @@
 This repository contains the main components of "Beta Writer", the algorithmic author of [the first machine-generated research book published by Springer Nature](https://link.springer.com/book/10.1007/978-3-030-16800-1).
 
 ---
+## Installation
+
+# 1.) Required dependencies:
+```
+brew install python3
+pip3 install numpy
+pip3 install sklearn
+pip3 install scipy
+pip3 install matplotlib
+pip3 install pandas
+pip3 install gensim
+```
+
+# 2.) Download theanets .zip from [here](https://github.com/lmjohns3/theanets)
+Alternatively: 
+```wget https://github.com/lmjohns3/theanets/archive/master.zip
+python3 setup.py install
+```
+
+
 
 ## Quickstart
 The script <b>pipeline.sh</b> contains all modules for end-to-end book generation.
