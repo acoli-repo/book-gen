@@ -1,5 +1,5 @@
 # Experiments on Summarization-Driven Book Generation
-This repository contains the main pipeline and components of "Beta Writer", the algorithmic author of [the first machine-generated research book published by Springer Nature](https://link.springer.com/book/10.1007/978-3-030-16800-1).
+This repository contains the main components of "Beta Writer", the algorithmic author of [the first machine-generated research book published by Springer Nature](https://link.springer.com/book/10.1007/978-3-030-16800-1).
 
 ---
 
