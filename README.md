@@ -28,7 +28,7 @@ and place libraries and models into the /mate directory.
 (Optional:)
 ### Download [StanfordCoreNLP](https://stanfordnlp.github.io/CoreNLP/)
 
-## Download [summa - textrank](https://github.com/summanlp/textrank)
+### Download [summa - textrank](https://github.com/summanlp/textrank)
 
 ### Install [citeproc-java](https://michel-kraemer.github.io/citeproc-java/)
 
