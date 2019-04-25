@@ -27,11 +27,12 @@ and place libraries and models into the /mate directory.
 
 
 ### Download [StanfordCoreNLP](https://stanfordnlp.github.io/CoreNLP/)
+and place .jars in dist/lib 
 
 ### Install [citeproc-java](https://michel-kraemer.github.io/citeproc-java/)
+and place .jars in dist/lib 
 
-### build beta_writer.jar
-
+(Alternatively, build beta_writer.jar yourself).
 
 ## Quickstart
 The script <b>pipeline.sh</b> contains all modules for end-to-end book generation.
