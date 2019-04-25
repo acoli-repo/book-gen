@@ -25,9 +25,6 @@ python3 setup.py install
 ### Install [Mate tools](https://code.google.com/archive/p/mate-tools/)
 and place libraries and models into the /mate directory.
 
-### Install [summa - textrank](https://github.com/summanlp/textrank)
-and place scripts into /textrank
-
 
 ### Download [StanfordCoreNLP](https://stanfordnlp.github.io/CoreNLP/)
 
