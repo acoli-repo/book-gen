@@ -25,13 +25,15 @@ python3 setup.py install
 ### Install [Mate tools](https://code.google.com/archive/p/mate-tools/)
 and place libraries and models into the /mate directory.
 
-(Optional:)
-### Download [StanfordCoreNLP](https://stanfordnlp.github.io/CoreNLP/)
+### Install [summa - textrank](https://github.com/summanlp/textrank)
+and place scripts into /textrank
 
-### Download [summa - textrank](https://github.com/summanlp/textrank)
+
+### Download [StanfordCoreNLP](https://stanfordnlp.github.io/CoreNLP/)
 
 ### Install [citeproc-java](https://michel-kraemer.github.io/citeproc-java/)
 
+### build beta_writer.jar
 
 
 ## Quickstart
