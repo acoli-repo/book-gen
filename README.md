@@ -47,7 +47,7 @@ This project is open source software and released under the [MIT license](https:
 
 ## Additional Information
 
-Note that "Beta Writer" has originally been tailored to consume and process Springer custom-specific document type formats ([A++](http://devel.springer.de/A++/V2.4/DTD/)) and does not (yet) support generic PDF.
+Note that <i><b>Beta Writer</b></i> has originally been tailored to consume and process Springer custom-specific document type formats ([A++](http://devel.springer.de/A++/V2.4/DTD/)) and does not (yet) support generic PDF.
 
 We currently provide the scripts for the major text processing tasks including:
 
