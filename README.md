@@ -27,7 +27,9 @@ and place libraries and models into the <code>/mate</code> directory.
 
 
 ### Download [StanfordCoreNLP](https://stanfordnlp.github.io/CoreNLP/) and [citeproc-java](https://michel-kraemer.github.io/citeproc-java/)
-and place .jars in <code>beta_writer/dist/lib</code> folder
+
+Ideally open <code>beta_writer</code> as Netbeans project, link downloaded .jar files to project, and build <code>beta_writer.jar</code>.
+The executable .jar should appear in <code>beta_writer/dist/</code>.
 
 ## Quickstart
 The script <code>pipeline.sh</code> contains all modules for end-to-end book generation.
