@@ -27,15 +27,27 @@ and place libraries and models into the /mate directory.
 
 
 ### Download [StanfordCoreNLP](https://stanfordnlp.github.io/CoreNLP/)
-and place .jars in dist/lib 
+and place .jars in <code>dist/lib</code>
 
 ### Install [citeproc-java](https://michel-kraemer.github.io/citeproc-java/)
-and place .jars in dist/lib 
+and place .jars in <code>dist/lib</code> 
 
 (Alternatively, build beta_writer.jar yourself).
 
 ## Quickstart
 The script <b>pipeline.sh</b> contains all modules for end-to-end book generation.
+run with:
+```
+sh pipeline.sh CORPUS_DIR gen/
+```
+where <code>CORPUS_DIR</code> = path to your A++ files and 
+
+<code>gen/</code> = directory containing all generated files
+
+
+
+# inspect book.html output in gen/ folder.
+
 
 ## License
 This project is open source software and released under the [MIT license](https://opensource.org/licenses/MIT).
