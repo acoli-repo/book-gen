@@ -31,8 +31,8 @@ print("read in " + str(len(ngrams)) + " ngrams.")
 logging.basicConfig(format='%(asctime)s : %(levelname)s : %(message)s', level=logging.INFO)
 
 # Load word vectors
-vectors = KeyedVectors.load("doc2vec/samuel_ngrams_model/model_chemdump_ngrams.w2v", mmap='r')
-#vectors = KeyedVectors.load("doc2vec/samuel_ngrams_model/model_soc_ngrams.w2v", mmap='r')
+vectors = KeyedVectors.load("models/model_chemdump_ngrams.w2v", mmap='r')
+#vectors = KeyedVectors.load("models/model_soc_ngrams.w2v", mmap='r')
 
 # iterate over each ngram and see if we have it in the word2vec model.
 for ngram in ngrams:
