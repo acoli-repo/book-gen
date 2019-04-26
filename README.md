@@ -34,7 +34,7 @@ and place .jars in <code>dist/lib</code>
 
 
 ## Quickstart
-The script <b>pipeline.sh</b> contains all modules for end-to-end book generation.
+The script <code>pipeline.sh</code> contains all modules for end-to-end book generation.
 ```
 sh pipeline.sh CORPUS_DIR gen/
 ```
@@ -42,9 +42,7 @@ where <code>CORPUS_DIR</code> = path to your A++ files and
 
 <code>gen/</code> = directory containing all generated files
 
-
-
-# inspect book.html output in gen/ folder.
+Inspect book.html output in <code>gen/</code> folder.
 
 
 ## License
