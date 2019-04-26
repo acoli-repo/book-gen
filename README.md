@@ -23,7 +23,7 @@ python3 setup.py install
 ```
 
 ### Install [Mate tools](https://code.google.com/archive/p/mate-tools/)
-and place libraries and models into the /mate directory.
+and place libraries and models into the <code>/mate</code> directory.
 
 
 ### Download [StanfordCoreNLP](https://stanfordnlp.github.io/CoreNLP/) and [citeproc-java](https://michel-kraemer.github.io/citeproc-java/)
