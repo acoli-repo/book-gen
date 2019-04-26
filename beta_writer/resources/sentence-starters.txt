@@ -1,0 +1,1334 @@
+# Contains an automatically compiled list of phrases
+# which should be removed from the beginning of a sentence in order to
+# "detach" it from the discourse structure in which it is embedded.
+However
+In this study
+Finally
+Recently
+Thus
+In summary
+In this vein
+Hence , in this chapter
+In this work
+On the other hand
+In many contexts
+Beyond these
+In general
+Therefore
+In addition
+In conclusion
+In this paper
+Furthermore
+In the present study
+Here
+Moreover
+In Fig.[REF]
+As shown in Fig.[REF]
+First
+In this chapter
+Generally
+In the present work
+In this section
+Similarly
+Interestingly
+Next
+Additionally
+For example
+Nevertheless
+Currently
+Hence
+In contrast
+As mentioned above
+Overall
+Also
+More recently
+In second stage
+Then
+Now
+As shown in Table[REF]
+Consequently
+Nowadays
+Alternatively
+Initially
+In this article
+In fact
+#Further
+To date
+Unfortunately
+At present
+Figure[REF]a
+Herein
+In principle
+In the following
+So far
+Typically
+As expected
+Indeed
+Today
+In particular
+From Fig.[REF]
+Obviously
+In practice
+Second
+Subsequently
+In this case
+In Table[REF]
+Usually
+Previously
+As mentioned earlier
+Accordingly
+Firstly
+Figures[REF]
+Of course
+Clearly
+Apart from this
+So
+In this context
+In that context
+At the same time
+In this research
+To summarize
+Considering future directions for this work
+From Table[REF]
+As a result
+Meanwhile
+Historically
+To the best of our knowledge
+Very recently
+Again
+Traditionally
+In the current study
+Generally speaking
+#Besides
+Secondly
+In the present paper
+For comparison
+As an example
+As discussed above
+As described above
+Figures[REF], [REF]
+Up to now
+For instance
+As mentioned before
+To our knowledge
+In our study
+To conclude
+Later
+At this point
+Actually
+White solid
+Likewise
+As already mentioned
+In some cases
+On the contrary
+In the past
+Taken together
+In 2006
+As seen in Fig.[REF]
+First of all
+Surprisingly
+Ideally
+At first
+In most cases
+As previously mentioned
+Conversely
+Lastly
+In this review
+In the literature
+Experimentally
+Basically
+In 2005
+In 2008
+As can be seen in Fig.[REF]
+Theoretically
+In Eq. ([REF])
+Importantly
+In the last decade
+In Eq.[REF]
+In Figure[REF]
+In this report
+Normally
+In 2007
+As mentioned previously
+As mentioned
+In [[REF]]
+Briefly
+Figure[REF]
+Presently
+In the present investigation
+In all cases
+By contrast
+As can be seen
+Third
+As shown in Figure[REF]
+Where
+Until now
+In the past decade
+In many cases
+If you do not have access
+In our previous work
+In 2003
+As a rule
+In ([REF])
+In 2004
+In the previous section
+In Fig.[REF]a
+In 2009
+[[REF]]
+Over the past decade
+In another study
+Fortunately
+For the first time
+As illustrated in Fig.[REF]
+According to Fig.[REF]
+Notably
+In the following sections
+In other words
+Nonetheless
+In this experiment
+During the last decade
+As a consequence
+In turn
+In this way
+Until recently
+In 2010
+As shown in Fig.[REF]a
+In recent years
+Over the years
+As noted above
+Note
+In this investigation
+In Sect.[REF]
+In 2001
+For this purpose
+As stated above
+As shown in Scheme[REF]
+As can be seen from Table[REF]
+In experiment 1
+In experiment 2
+In experiment 3
+In experiment 4
+In a way
+Inversely
+As can be seen from Fig.[REF]
+Remarkably
+In 2011
+In a typical experiment
+In 2000
+If[EQUATION]
+According to Table[REF]
+Naturally
+In the next step
+In this method
+In any case
+In 2002
+Ultimately
+To this end
+To sum up
+In this regard
+In the first step
+By definition
+Summarizing
+In the current work
+In recent decades
+In 1999
+As we know
+In our previous study
+In Fig.[REF]b
+For this reason
+Based on these results
+In a previous study
+As discussed earlier
+where
+Specifically
+In this respect
+As seen in Table[REF]
+Apparently
+Often
+In total
+For simplicity
+Eventually
+As is well known
+Thus far
+In both cases
+In a typical procedure
+Figures[REF], [REF], [REF]
+Evidently
+Commonly
+In a recent study
+As can be seen in Table[REF]
+On the whole
+In this contribution
+In our case
+Earlier
+As shown above
+Altogether
+According to Eq. ([REF])
+As shown in Fig.[REF]b
+Originally
+In what follows
+In the future
+In reality
+In brief
+For this study
+At room temperature
+According to the literature
+Strictly speaking
+In this part
+In this book
+In the same way
+In short
+In 1998
+From Eq. ([REF])
+Based on the above results
+Based on the above theory
+In our opinion
+Analogously
+Over the last decade
+Lately
+In this example
+For many years
+In the last few years
+In the past few years
+In the last years
+In our experiments
+Ibid.
+Most recently
+Last but not least
+In the experiment
+In comparison
+From ([REF])
+Figure[REF]c
+As depicted in Fig.[REF]
+According to Eq.[REF]
+On the one hand
+In the present research
+In the last decades
+In our laboratory
+In a similar manner
+From these results
+For a long time
+As mentioned in the introduction
+As discussed in Sect.[REF]
+After that
+According to [[REF]]
+Undoubtedly
+Sometimes
+In 1996
+As a matter of fact
+That is why
+That is
+That is to say
+Simultaneously
+Once again
+It should be noted that
+In this communication
+In the past decades
+In the following section
+In our work
+Globally
+As noted earlier
+Yet
+Tables[REF]
+Over the past few decades
+In this sense
+In this model
+In this equation
+In previous studies
+In our experiment
+In 1993
+For[EQUATION]
+For these reasons
+Conventionally
+Afterwards
+In theory
+In the second step
+In recent times
+During recent years
+Mathematically
+Instead
+In [[REF]
+In 2012
+In 1997
+Essentially
+Below
+At this stage
+As is known
+In the next section
+In 1992
+From Eq.[REF]
+Figure[REF]b
+During the past decade
+where[EQUATION]
+[[REF], [REF]
+Using ([REF]) and ([REF])
+Thirdly
+The synthesis
+Referring to Fig.[REF]
+Over the past few years
+Over the last two decades
+Not surprisingly
+In this process
+During the last few years
+But
+But then
+As shown in[REF]
+As indicated above
+According to the results
+[[REF], [REF]]
+Using Eq.[REF]
+Since then
+Over the past two decades
+More specifically
+More specifically though
+Later on
+In general terms
+In a similar way
+In 1990
+From the above results
+From Figure[REF]
+From Figs.[REF]
+During the last two decades
+Collectively
+As seen from Table[REF]
+Over the past decades
+On behalf of all authors
+Occasionally
+Note that
+It should be noted
+In this entry
+In the recent years
+In the present chapter
+In the last two decades
+In present work
+In 1995
+In 1994
+Equations ([REF])
+Correspondingly
+At the present time
+At last
+As well known
+As stated earlier
+As previously discussed
+As described earlier
+i.e.
+Unexpectedly
+Under the optimized conditions
+The structural
+Structure
+Particularly
+On the basis of these results
+In this thesis
+In this approach
+In the past two decades
+In the meantime
+In our previous study [[REF]]
+In our previous studies
+In each case
+In another work
+In Figs.[REF] and [REF]
+In 1991
+From Fig.[REF]a
+For convenience
+For comparison purposes
+Conceptually
+Based on these considerations
+As it can be seen
+According to ([REF])
+Using Eq. ([REF])
+There is, however
+Still
+Over the last few years
+It is worth noting that
+In this letter
+In the second stage
+In the same year
+In the past few decades
+In the experiments
+In previous work
+In parallel
+In our previous work [[REF]]
+In nature
+In humans
+In another approach
+From Eqs. ([REF]) and ([REF])
+Frequently
+Figures[REF], [REF], [REF], [REF]
+Figure[REF] shows that
+During the past decades
+Certainly
+Based on the above analysis
+As seen from Fig.[REF]
+As mentioned in Sect.[REF]
+Above
+Thereafter
+On the other side
+Most importantly
+In[REF]
+In the previous sections
+In present study
+In consequence
+In a previous work
+From the results
+For the sake of simplicity
+As shown in Figs.[REF] and [REF]
+As previously stated
+As known
+As anticipated
+As aforementioned
+As a first step
+Afterward
+According to these results
+According to literature
+Up to this point
+Unless otherwise stated
+Thereby
+There are, however
+Tables[REF], [REF]
+See
+Or
+More generally
+Incidentally
+In view of the above
+In this connection
+In the study
+In the second case
+In the previous study
+In the present case
+In the present article
+In a previous study [[REF]]
+In 1987
+If necessary
+From Figs.[REF] and [REF]
+Equations ([REF]), ([REF])
+During the past few years
+During the last decades
+Based on the results
+At equilibrium
+As described in the previous section
+As described in Sect.[REF]
+As before
+As a general rule
+[EQUATION], [EQUATION]
+Using ([REF])
+Under these conditions
+To begin with
+Summing up
+Practically
+On one hand
+More importantly
+Last
+In this manuscript
+In the previous chapter
+In the 1990s
+In sum
+In solution
+In our studies
+In [[REF], [REF]]
+In Eq. [[REF]]
+In 1989
+In 1986
+Figure[REF]a, b
+FAs(GLC, 10% PEGA)
+Concluding
+Classically
+At first glance
+As summarized in Table[REF]
+As such
+As seen
+As listed in Table[REF]
+As far as we know
+As discussed previously
+As discussed before
+As an alternative
+All in all
+Together
+Structurally
+Starch
+Otherwise
+More precisely
+In view of this
+In the last few decades
+In the first case
+In the 1980s
+In literature
+In a subsequent study
+In Figs.[REF]
+In Brazil
+In 1985
+Hereafter
+From the above
+From Figs.[REF], [REF]
+For decades
+Equation ([REF])
+During the experiment
+Commercially
+As we have seen
+As previously described
+As presented in Table[REF]
+As is shown in Fig.[REF]
+As indicated in Table[REF]
+As illustrated in Table[REF]
+As another example
+As a conclusion
+As Fig.[REF] shows
+Using this method
+Up to date
+Significantly
+Qualitatively
+Over the last few decades
+More interestingly
+Mechanistically
+It should be noted, however
+In this subsection
+In this present study
+In the second approach
+In the next sections
+In all experiments
+In a word
+In a recent paper
+In Section[REF]
+In 1976
+Fundamentally
+From the above discussion
+For the sake of completeness
+For the present study
+For each sample
+Figures[REF]a
+Especially
+Equations[REF], [REF]
+Equations[REF]
+Equation[REF]
+By comparison
+At baseline
+As was mentioned above
+As seen above
+As previously reported
+As outlined above
+As it is well known
+As it is known
+As discussed in
+As described
+As already stated
+As already noted
+As already mentioned above
+Among them
+Also in this case
+All chemicals
+After completing this chapter
+Above all
+Without doubt
+With this in mind
+Therefore, in this study
+Since[EQUATION]
+Quantitatively
+Principally
+On average
+It is, however
+In this system
+In the second method
+In the past years
+In the early 1980s
+In many instances
+In detail
+In a previous work [[REF]]
+In a different approach
+In 1988
+In 1981
+For illustration
+Figure[REF] shows
+Combining Eqs.[REF] and [REF]
+Based on Fig.[REF]
+At this time
+At the beginning
+As stated previously
+As shown in Fig.[REF]a, b
+As pointed out above
+As observed in Fig.[REF]
+As indicated in Fig.[REF]
+As discussed in[REF]
+As described in
+As Table[REF] shows
+Within this context
+With this background
+To summarise
+To optimize the reaction conditions
+To conclude this section
+Since the 1990s
+Several years ago
+Over the last years
+On this basis
+Most commonly
+It is interesting to note that
+In this test
+In this technique
+In this case study
+In these experiments
+In these equations
+In the previous chapters
+In the paper
+In the model calculations
+In the first stage
+In the end
+In the 1970s
+In essence
+In aqueous solution
+In another example
+In addition to the above
+In a similar fashion
+In Eq. ([REF])
+In 1983
+In 1975
+In 1973
+In 1971
+In 1969
+From a theoretical point of view
+From Tables[REF] and [REF]
+Formally
+For the sake of clarity
+For many applications
+For centuries
+Depending on the application
+Based on these findings
+As we can see
+As we can see from above
+As stated before
+As shown in [[REF]]
+As shown in Tables[REF] and [REF]
+As presented in Fig.[REF]
+As mentioned in the previous section
+As mentioned in the Introduction
+As explained above
+As described previously
+As already discussed
+As a control
+Using this approach
+Unless stated otherwise
+To solve this problem
+To our best knowledge
+To the best of our knowledge
+To a large extent
+Till now
+Throughout the world
+Though
+Technically
+Strikingly
+Some years ago
+Since ancient times
+Probably
+Prior to each experiment
+Noteworthy
+It is well known that
+In vivo
+In this volume
+In this scenario
+In this paragraph
+In this expression
+In this analysis
+In these cases
+In their study
+In the second one
+In the present contribution
+In the near future
+In the model
+In some instances
+In our present study
+In many applications
+In another experiment
+In Scheme[REF]
+In Fig.[REF]c
+In Chap.
+In 1984
+In 1965
+Here and below
+From this
+For completeness
+Figures[REF], [REF], [REF], [REF], [REF]
+During the last few decades
+During the experiments
+Despite this
+Curiously
+As well
+As we all know
+As shown in the previous section
+As noted previously
+As mentioned in[REF]
+As discussed in the previous section
+As can be seen in Figure[REF]
+As a whole
+And
+After performing this experiment
+After annealing
+According to the literature [[REF]]
+finally
+With few exceptions
+Very often
+Unsaponifiable
+To overcome this problem
+To overcome these problems
+To overcome these limitations
+Recent years
+Quite recently
+Physically
+Over the past several years
+Over the last decades
+Of note
+Needless to say
+Most interestingly
+It should be mentioned that
+It should be mentioned
+Intuitively
+In this review article
+In these conditions
+In the second part
+In the reported study
+In the present analysis
+In the majority of cases
+In the late 1990s
+In the late 1980s
+In the general case
+In the current research
+In the current investigation
+In the beginning
+In the above equation
+In the above
+In retrospect
+In principal
+In our research
+In many practical cases
+In many countries
+In earlier studies
+In continuation
+In closing
+In addition to this
+In a summary
+In a similar work
+In a next step
+In Sects.[REF] and [REF]
+In Ref. [[REF]]
+In Eqs. ([REF]) and ([REF])
+In Chapter 2
+In 1977
+In 1966
+Here,[EQUATION]
+From this study
+From this experiment
+From this point of view
+From this equation
+From the literature
+From the data in Table[REF]
+From a practical point of view
+From Figs.[REF], [REF], [REF]
+From ([REF]) and ([REF])
+Fourth
+For years
+For this
+For the sake of comparison
+For clarity
+For all experiments
+Figure[REF](a
+Even so
+Equivalently
+During the last years
+Based on these observations
+Based on the above
+At[EQUATION]
+At the moment
+At the first stage
+As shown in Figure[REF]b
+As shown in Fig.[REF]d
+As shown
+As one can see
+As has been mentioned above
+As displayed in Fig.[REF]
+As discussed
+As can be noticed
+As already indicated
+As alluded to above
+As a next step
+As a final remark
+Anyway
+Analytical balance
+According to our results
+According to figure[REF]
+According to [[REF]
+According to Eqs.[REF] and [REF]
+According to Eqs. ([REF]) and ([REF])
+Absorption, distribution, metabolism
+where[EQUATION], [EQUATION]
+[[REF]]. However
+[EQUATION], [EQUATION], [EQUATION]
+Without loss of generality
+With[EQUATION] 
+With this method
+Using the general procedure
+Unsurprisingly
+To this aim
+Table[REF]
+Since their discovery
+Since the 1980s
+Since the 1970s
+See Table[REF]
+Over time
+Over the past years
+Note, however
+It was found
+It is observed that
+It is known
+It is clear that
+Increasingly
+In this reaction
+In this evaluation
+In this present work
+In this framework
+In this formula
+In this appendix
+In this Section
+In the second phase
+In the second experiment
+In the same manner
+In the remainder of this section
+In the process
+In the present review
+In the present research work
+In the glove box
+In the first part
+In the first method
+In the last four experiments
+In our second approach
+In the conventional approach
+In the above equations
+In references
+In preliminary experiments
+In our previous report
+In our third approach
+In our second approach
+In our second experiment
+In our investigation
+In our experience
+In its simplest form
+In future
+In future research
+In contrast to this
+In a typical preparation
+In a similar vein
+In a similar study
+In a related study
+In a recent work
+In a follow-up study
+In a first step
+In Tables[REF] and [REF]
+In Fig.[REF]a, b
+In Fig.[REF](a)
+In Chapter 3
+In 2013
+In 1980
+In 1979
+In 1974
+In 1972
+In 1961
+In 1958
+In 1950
+Here[EQUATION]
+Here again
+From these data
+From the results presented above
+From the result
+From the Fig.[REF]
+From a practical standpoint
+From Figs.[REF], [REF], [REF], [REF]
+For this analysis
+For practical applications
+Early on
+During the tests
+During the study
+During the past few decades
+Conclusively
+Comparatively
+By the way
+By now
+By far
+Besides this
+Based on this
+Based on this observation
+Based on these observations
+Based on the above discussion
+At the time of writing
+At first sight
+As was mentioned earlier
+As shown in figure[REF]
+As shown in Table[REF] and Fig. [REF]
+As shown in Fig.[REF]c
+As seen in Fig.[REF]a
+As reported
+As observed in Table[REF]
+As it was mentioned above
+As it is seen from Fig.[REF]
+As indicated
+As follows from ([REF])
+As explained previously
+As discussed in Section[REF]
+As can be seen in Fig.[REF]a
+As can be observed in Table[REF]
+As can be observed in Fig.[REF]
+As already described
+As a comparison
+Another example
+Among these
+All together
+According to another embodiment
+According to Figure[REF]
+Within the last decade
+Using this technique
+Using the above equation
+Until very recently
+Unless otherwise noted
+Under these circumstances
+Under such conditions
+Totally
+To this point
+To the authors’ knowledge
+To address this issue
+To accomplish this
+Through the years
+Therefore, in this work
+Therefore, in the present study
+The values of[EQUATION]
+The first, and so far only
+Since the 1960s
+Since 2000
+See Tables[REF]
+Refined
+Perhaps surprisingly
+Over the past 30 years
+Noticeably
+Most probably
+It was found that
+It is known that
+It is important to note that
+Interestingly enough
+In view of ([REF])
+In this region
+In this procedure
+In this perspective
+In this mechanism
+In this manner
+In this figure
+In the twenty-first century
+In the same study [[REF]]
+In the previous study [[REF]]
+In the present experiment
+In the preceding sections
+In the latter case
+In the last three decades
+In the last chapter
+In the last 20 years
+In the first place
+In the early 1970s
+In the current article
+In the Fig.[REF]
+In the 1950s
+In the 1930s
+In study I
+In recent studies
+In previous chapters
+In our present work
+In our approach
+In most of the cases
+In many situations
+In figure[REF]
+In experiments
+In another case
+In an alternative approach
+In a series of papers
+In a sense
+In a second step
+In a recent report
+In a preliminary study
+In [[REF]–[REF]]
+In Figs.[REF], [REF]
+In Fig.[REF]a–c
+In Equation[REF]
+In 1968
+In 1960
+In 1956
+In 1940
+If, however
+If possible
+From these observations
+From the experimental point of view
+From the discussion above
+From the chemical point of view
+From the above study
+From the above equation
+From the above analysis
+From another point of view
+From Figs.[REF], [REF], [REF], [REF], [REF]
+From Fig.[REF]b
+From Eqs.[REF] and [REF]
+For this work
+For the reasons mentioned above
+For the purposes of this chapter
+For the experiments
+For that purpose
+For some applications
+For simplification
+For practical reasons
+For practical purposes
+For more than a decade
+For many decades
+For given[EQUATION]
+For further investigation
+For characterization
+Following [[REF]]
+Following [[REF]
+Every year
+During the 1990s
+Considering the above
+Complementarily
+By substituting ([REF]) into ([REF])
+Broadly speaking
+Before testing
+Because of this
+Because of this difference
+Based on our results
+Based on Eq.[REF]
+Based on Eq. ([REF])
+At the end of the experiment
+At that time
+As we mentioned above
+As the name implies
+As stated in the introduction
+As shown in Figures[REF] and [REF]
+As shown in Figs.[REF]
+As shown in Fig.[REF] and Table [REF]
+As might be expected
+As mentioned in
+As is seen in Fig.[REF]
+As indicated previously
+As illustrated in Scheme[REF]
+As illustrated in Figure[REF]
+As follows from Fig.[REF]
+As explained earlier
+As described in the introduction
+As can be observed
+As an illustration
+As a rule of thumb
+As a representative example
+Arguably
+Another approach
+Among others
+According to Figs.[REF] and [REF]
+A few years later
+where [EQUATION] and [EQUATION] are, respectively
+where [EQUATION] and [EQUATION] are
+where [EQUATION]
+example
+[[REF], [REF], [REF]
+[EQUATION], [EQUATION], [EQUATION], [EQUATION]
+Without question
+What is more
+We, therefore
+We present
+Up until now
+Unquestionably
+Under the same conditions
+Under the above assumptions
+Under optimal conditions
+Under normal conditions
+To the contrary
+To conclude this chapter
+To answer this question
+This way
+Therefore, in this paper
+There are, of course
+The values of[EQUATION], [EQUATION]
+The Figs.[REF], [REF]
+The Figs.[REF]
+Table[REF] shows that
+Substituting Eq. ([REF]) into Eq. ([REF])
+Substituting Eq. ([REF]) in Eq. ([REF])
+Substituting ([REF]) into ([REF])
+Soon afterward
+Soon after
+Since 1990
+Recently, however
+Prior to analysis
+Primarily
+Perhaps
+Ordinarily
+Namely
+Looking at Fig.[REF]
+Last, but not least
+Last but not the least
+It should be mentioned, however
+It is evident that
+It is assumed
+It follows that
+It can be seen from Fig.[REF]
+Intriguingly
+Inevitably
+InFig.[REF]
+In view of these facts
+In this step
+In this section of the chapter
+In this research work
+In this project
+In this part of the study
+In this configuration
+In this and the following chapter
+In these reactions
+In the simulations
+In the simplest case
+In the second example
+In the same context
+In the recent past
+In the recent decade
+In the previous studies
+In the present model
+In the numerical simulation
+In the mid-1980s
+In the late 1970s
+In the last several years
+In the former case
+In the following paragraphs
+In the first set of experiments
+In the first approach
+In the early 1990s
+In the above example
+In the above discussion
+In the 1960s
+In recent work
+In previous works
+In previous research
+In previous reports
+In our view
+In our previous works
+In other experiments
+In one of the various embodiments
+In most studies
+In more recent years
+In equation ([REF])
+In earlier times
+In doing so
+In current study
+In conclusions
+In certain cases
+In any event
+In another embodiment
+In an earlier study
+In a typical run
+In a typical reaction
+In a similar approach
+In a second approach
+In a more recent study
+In a later study
+In a first set of experiments
+In Figure[REF]a
+In Figure[REF](a)
+In Equation ([REF])
+In Eqs.[REF] and [REF]
+In Chapter 4
+In 1982
+In 1978
+In 1963
+In 1959
+In 1952
+In 1930
+In 1926
+However, to our knowledge
+Henceforth
+Given that
+From this table
+From this result
+From the theoretical point of view
+From the results presented in Table[REF]
+From the results in Table[REF]
+From extraction experiments andγ-activity measurements
+From above
+From a fundamental point of view
+From a chemical point of view
+From Equation ([REF])
+From Eqs. ([REF])
+From Eq[REF]
+For this case
+For the experiment
+For several years
+For each experiment
+For comparative purposes
+Following this idea
+Figures[REF] and [REF]
+Figure[REF]d
+Expressions ([REF])
+Equations ([REF]), ([REF]), ([REF])
+Equations ([REF]) and ([REF])
+Encouraged by these results
+Elsewhere
+Effectively
+During the simulation
+During the recent years
+During the past two decades
+During the past several years
+During the last 20 years
+During experiments
+Concurrently
+Clinically
+Characteristically
+By analogy
+Based on the obtained results
+Based on the literature
+Based on the experimental results
+Based on the above discussions
+Based on the above considerations
+At this juncture
+Assuming
+As[EQUATION]
+As their name implies
+As stated
+As shown inFig.[REF]
+As shown in the previous sections
+As shown in table[REF]
+As shown in Figure[REF](a)
+As shown in Fig.[REF]a–c
+As shown earlier
+As seen in the figure
+As seen from Figs.[REF] and [REF]
+As reported previously
+As reported in Table[REF]
+As previously shown
+As previously noted
+As previously indicated
+As one can see in Table[REF]
+As noted in Sect.[REF]
+As noted before
+As noted
+As mentioned already
+As is seen
+As indicated before
+As has already been mentioned
+As follows from Table[REF]
+As discussed in this chapter
+As depicted in Fig.[REF]a
+As demonstrated above
+As comparison
+As can be expected
+As above mentioned
+Anyhow
+And finally
+Analogically
+Along this line
+After optimization
+After irradiation
+After electrophoresis
+After cultivation
+After cleaning
+After 24 h
+Admittedly
+Across all participants and stimuli
+According to this study
+According to the obtained results
+According to the above results
+According to the above discussion
+According to the above analysis
+A few years ago
+([REF]) [[REF]]

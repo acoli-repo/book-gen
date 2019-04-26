@@ -1,0 +1,2853 @@
+# precomputed using word2vec. (02-02-29)
+# cf. doc2vec folder
+limited	restricted
+improvement	amelioration
+poor	meager
+poor	inferior
+additional	further
+further	additional
+A lot of	numerous
+a lot of	numerous
+unveil	uncover
+previous_findings	previous reports
+instantly	instantaneously
+fears	anxieties
+evokes	elicits
+Our_results	Our findings
+a_lot_of	plenty_of
+elicit	evoke
+mean	average
+robot-assisted	robotic-assisted
+ideas	concepts
+challenging	problematic
+ethical_issues	ethical concerns
+robust	reliable
+subjects	participants
+competitions	tournaments
+emotional	affective
+movement	motion
+soccer	football
+movements	motions
+motions	movements
+motion	movement
+constraints	restrictions
+children	infants
+people	persons
+guaranteed	assured
+happen	take place
+compelling	convincing
+determine_whether	determine if
+few	handful
+severe	serious
+suitable	useful
+best	optimal
+unique	distinctive
+loss	deterioration
+simple	straightforward
+large	huge
+due_to	because of
+using	employing
+study	investigation
+only	just
+but	though
+successfully	efficiently
+much	considerably
+proposed	devised
+well	reasonably well
+attracted	aroused
+appropriate	suitable
+overcome	circumvent
+type	kind
+same	identical
+amounts	quantities
+causes	triggers
+resulted	caused
+degree	extent
+fully	completely
+abuse	misuse
+replace	substitute
+demand	requirement
+arrangements	configurations
+typical	characteristic
+influences	affects
+each	every
+accurate	reliable
+full	complete
+expected	supposed
+retained	preserved
+with_respect	relating
+ideal	optimal
+far	much
+intrinsic	inherent
+benefit	profit
+acceptable	satisfactory
+uncertain	unclear
+prove	confirm
+biggest	largest
+tend	seem
+already	previously
+most_important	main
+wet	moist
+complete	full
+causing	inducing
+nature	character
+growing	expanding
+# newly added by Tibor, Dec 23rd. 2018.
+####
+uniformly	homogeneously
+reach	attain
+In_order_to	To
+Ag_NPs	Ag nanoparticles
+alter	affect
+acted	functioned
+Because_of	Due_to
+because of	due to
+because_of	due_to
+LIBs	Li-ion batteries
+conductivity	electrical conductivity
+good	satisfactory
+driven_by	because_of
+different	various
+improved	enhanced
+lithium_ion	Li-ion
+exhibited	showed
+new	novel
+developed	devised
+may	might
+This	That
+amount	quantity
+found	observed
+could	can
+approach	strategy
+novel	new
+From	Based on
+maximum	maximal
+could_be	can be
+Li-ion	lithium ion
+strategy	approach
+effectively	efficiently
+behavior	behaviour
+reduction	decrease
+great	considerable
+thus	hence
+conventional	traditional
+co-precipitation	coprecipitation
+nanocomposites	nano-composites
+uniform	homogeneous
+Li-ion_batteries	lithium batteries
+problem	issue
+cyclability	cycleability
+electrical_conductivity	electric conductivity
+calcination	calcining
+coulombic	columbic
+synergistic	synergetic
+behaviors	behaviours
+obtain	derive
+major	main
+focused	centred
+focused_on	concentrated_on
+focused_on	revolved_around
+focussed_on	concentrated_on
+focussed_on	revolved_around
+widely	extensively
+greatly	substantially
+necessary	required
+this_study	the_present_study
+average	mean
+life_cycle	lifecycle
+possess	owns
+similar	comparable
+charge-discharge	discharge/charge
+investigate	examine
+proved	demonstrated
+optimal	optimum
+low-cost	cheap
+issues	problems
+larger	bigger
+nanofibers	nanofibres
+ascribed	attributed
+indicate_that	suggest that
+attractive	appealing
+tested	evaluated
+traditional	conventional
+lifetime	life-time
+widely_used	commonly used
+literature	scientific literature
+nanosized	nano-sized
+approximately	roughly
+homogeneous	homogenous
+challenges	issues
+desirable	advantageous
+Coulombic	columbic
+sulphur	sulfur
+maintained	kept
+believed	thought
+co-solvent	cosolvent
+obtained_from	derived from
+therefore	hence
+comparable	similar
+disadvantages	drawbacks
+generally	usually
+whole	entire
+issue	problem
+commercialized	marketed
+Considering	Given
+reliable	accurate
+aluminum	aluminium
+indicated_that	suggested that
+costs	expenses
+Better	Improved
+considering	taking into account
+chosen	selected
+abundance	relative abundance
+aging	ageing
+one-step	single-step
+Excellent	Good
+efficiently	effectively
+exceeding	exceeded
+expensive	costly
+environmental_friendliness	eco-friendliness
+nanoscale	nano-scale
+eventually	ultimately
+applying	employing
+simulate	emulate
+whereas	while
+state-of-the-art	state-of-art
+kept	maintained
+two-dimensional	2D
+methodology	approach
+an_important_role	important roles
+attracted_much	attracted considerable
+calculated	computed
+thermogravimetric	thermo-gravimetric
+present_study	current study
+nano-sized	nanosized
+inexpensive	cheap
+importance	relevance
+commonly_used	widely used
+developments	advancements
+enough	sufficiently
+entire	whole
+Among	Of
+co-solvents	cosolvents
+investigating	examining
+objective	aim
+extensively	intensively
+suggest_that	indicate that
+nondestructive	non-destructive
+properly	appropriately
+conduct	carry out
+modifying	altering
+co-doping	codoping
+satisfactory	good
+semicircle	semi-circle
+accurately	reliably
+extensively_studied	intensively studied
+disadvantage	drawback
+elastic-plastic	elasto-plastic
+nanometer	nanometre
+sufficiently	enough
+previous_studies	previous reports
+so_far	till date
+occurred	happened
+partially	partly
+However	Nevertheless
+has_been_reported	has been shown
+flame-retardant	flame-retarding
+automatic	automated
+free-standing	freestanding
+realized	accomplished
+ultrathin	ultra-thin
+aid	assist
+ultimately	eventually
+nontoxic	non-toxic
+pretreatment	pre-treatment
+depends_on	depends upon
+ageing	aging
+optimum	optimal
+spectrometer	spectroscope
+taking_into_account	taking into consideration
+nonwoven	non-woven
+suggested_that	indicated that
+Good	Excellent
+well_known	well established
+obviously	evidently
+electric_conductivity	electrical conductivity
+perform	carry out
+possibly	presumably
+software	computer program
+nanofillers	nano-fillers
+practically	virtually
+plug-in	plugin
+attracted_considerable	attracted much
+constituents	components
+dependent_on	dependent upon
+inevitable	unavoidable
+non-flammability	nonflammability
+removed	discarded
+Studies	Previous studies
+non-woven	nonwoven
+cycleability	cyclability
+calculations	computations
+methyl_methacrylate	methylmethacrylate
+cheap	inexpensive
+vulnerable	susceptible
+likely	most likely
+uniformly_dispersed	homogeneously dispersed
+infrared	infra-red
+great_importance	paramount importance
+ultrashort	ultra-short
+nontoxicity	non-toxicity
+disulfide	disulphide
+carboxymethyl_cellulose	carboxymethylcellulose
+lithium_batteries	Li-ion batteries
+select	choose
+agreement	concordance
+selecting	choosing
+get	obtain
+center	centre
+Benefiting	Benefitting
+learned	learnt
+important_role	crucial role
+note	notice
+modify	alter
+greater_than	larger than
+sulphide	sulfide
+situations	circumstances
+non-toxicity	nontoxicity
+estimate	calculate
+Conventional	Traditional
+observer	examiner
+circumstances	situations
+non-destructive	nondestructive
+Recent_studies	Previous studies
+convert	transform
+today	nowadays
+partly	partially
+bigger	larger
+apply	employ
+last_few_decades	past century
+co-doped	codoped
+analogs	analogues
+well-known	well-established
+regions	areas
+interparticle	inter-particle
+automobile	automotive
+placed	positioned
+ultrahigh	ultra-high
+most_common	most frequent
+into_account	into consideration
+relationships_between	relationship between
+critical_role	key role
+homogenously	homogeneously
+favor	favour
+unwanted	undesired
+assist	aid
+worse	poorer
+intensively	extensively
+uniformly_distributed	evenly distributed
+previous_work	previous report
+measurable	measureable
+co-precipitated	coprecipitated
+permits	allows
+find_out	ascertain
+choose	select
+altering	modifying
+barely	hardly
+multicomponent	multi-component
+micro-sized	micron-sized
+monotonically	monotonously
+well-suited	ideally suited
+met	fulfilled
+thought	believed
+Then	Subsequently
+rises	increases
+back-up	backup
+take_into_account	take into consideration
+Mainly	Primarily
+certainly	undoubtedly
+guarantee	assure
+About	Approximately
+last_century	last few decades
+ultra-thin	ultrathin
+quantity	amount
+nevertheless	nonetheless
+utmost	paramount
+Multiple	Various
+vapor	vapour
+sulfur	sulphur
+micron-sized	micro-sized
+Although	While
+In_this_paper	Here
+essentially	basically
+nanosize	nano-size
+By_comparing	Comparing
+intensively_studied	extensively researched
+restrictions	constraints
+Given	Considering
+probably	presumably
+located	situated
+home-made	homemade
+quasi-static	quasistatic
+basically	essentially
+backup	back-up
+appeared	seemed
+centered	centred
+Improved	Better
+separately	individually
+individually	separately
+Nanosized	Nano-sized
+lightweight	light-weight
+multi-scale	multiscale
+pollutants	contaminants
+appropriately	properly
+without_sacrificing	without compromising
+costly	expensive
+appealing	attractive
+occasionally	sometimes
+sub-zero_temperatures	subzero temperatures
+manner	fashion
+wide_variety	wide array
+hardly	barely
+quantify	assess
+mobile_phone	smartphone
+built	constructed
+worsens	deteriorates
+fifty_microliters	fifty microlitres
+centers	centres
+fibers	fibres
+Comparing	By comparing
+Clearly	Obviously
+Even_though	Though
+homogenous	homogeneous
+presumably	probably
+without_compromising	without sacrificing
+twentieth_century	20th century
+nearly_identical	almost identical
+interchanged	swapped
+shortage	scarcity
+revealing	demonstrating
+emphasize	underline
+deploy	install
+afterwards	thereafter
+manners	fashions
+taken_into_account	taken into consideration
+exceptional	extraordinary
+unchanged	unaltered
+enlarges	widens
+suited	well-suited
+####
+####
+####
+#asylum_seekers	refugees
+great	considerable
+good	satisfactory
+#About	Nearly
+According	With regard
+Action Plan	Strategy
+Actors	Agents
+Ageing	Aging
+Agents	Actors
+Aging	Ageing
+Almost	Nearly
+Also	Moreover
+Another	One
+Apart from	Beyond
+#Area	Zone
+At_least	Only
+Attempts	Efforts
+Based on	Following
+Based_on	Following
+Because	Since
+Before	By
+Beyond	Apart from
+Board	Committee
+Bureau	Office
+By	Through
+CEOs	executives
+Center	Centre
+Centre	Center
+Committee	Board
+Compared	In contrast
+Concerning	Regarding
+Convention	Treaty
+Despite	Notwithstanding
+Different	Various
+Due	Owing
+During	Throughout
+#EC	European_Commission
+#EU	European_Union
+EUROSTAT	Eurostat
+Each	Every
+Efforts	Attempts
+Especially	In_particular
+European_Commission	EC
+European_Union	EU
+Eurostat	EUROSTAT
+Even	Especially
+Even though	Even_if
+Even_if	Even though
+Every	Each
+Federation	Union
+First	Initially
+Following	Based_on
+#Framework	Strategy
+GHG emissions	greenhouse_gas_emissions
+IMF	International_Monetary_Fund
+If	Whether
+#In	Within
+In contrast	Compared
+Initially	First
+Initiative	Programme
+Instead	Rather
+International_Monetary_Fund	IMF
+Labor	Labour
+Labour	Labor
+Linked	Related
+Many	Some
+Member States	member_states
+Member_States	member states
+Moreover	Also
+Most	The majority of
+National Assembly	Parliament
+#Nearly	About
+Nonetheless	Still
+Note	Recall
+Notwithstanding	Despite
+Numerous	Several
+Office	Bureau
+Once	When
+One	Another
+Only	At_least
+Other	Several
+Over	During
+Owing	Due
+Parliament	National Assembly
+Particularly	Especially
+#Plan	Strategy
+Program	Project
+Programme	Initiative
+Programmes	Projects
+Project	Program
+Projects	Programmes
+Rather	Instead
+Recall	Note
+Recommendations	Suggestions
+Regarding	Concerning
+Related	Linked
+Several	Numerous
+#Since	Because
+#Since	Even though
+Still	Nonetheless
+Strategy	Action Plan
+#Strategy	Framework
+#Strategy	Plan
+Such	These
+Suggestions	Recommendations
+These	Such
+Through	Following
+Throughout	During
+Treaty	Convention
+Typically	Usually
+UN	United_Nations
+USA	United_States
+Union	Federation
+United_Nations	UN
+United_States	USA
+Usually	Typically
+#Various	Different
+WHO	World_Health_Organization
+When	Once
+Whereas	While
+Whether	If
+While	Whereas
+With regard	According
+Within	In
+World_Health_Organization	WHO
+#Zone	Area
+#ability	capacity
+abroad	overseas
+absorbed	transformed
+abstain	refrain
+academicians	academics
+academics	academicians
+accessible	easily accessible
+accomplished	achieved
+accomplishments	achievements
+accuracy	precision
+achieve	attain
+achieved	accomplished
+achievement	attainment
+achievements	accomplishments
+achieving	attaining
+acknowledge	recognize
+acknowledged	recognized
+acknowledges	recognizes
+acknowledging	recognizing
+acquaintances	friends
+actor	agent
+actors	agents
+adapt	adjust
+adaptation	adaption
+adaption	adaptation
+address	tackle
+addressed	tackled
+addresses	examines
+addressing	tackling
+adhere	conform
+adhered	conformed
+adjust	adapt
+adolescents	adults
+adopt	employ
+adopted	devised
+adults	adolescents
+advice	guidance
+affected	impacted
+affecting	influencing
+aftermath	wake
+aged	years old
+agencies	organisations
+agent	actor
+agents	actors
+agreements	treaties
+aim	goal
+aimed	aiming
+aiming	aimed
+aligned	congruent
+alleviate	ameliorate
+alliances	coalitions
+allocated	allotted
+allotted	allocated
+allow	enable
+allowed	permitted
+allows	enables
+almost	nearly
+altered	reshaped
+although	even though
+ameliorate	mitigate
+analyze	examine
+analyzed	examined
+analyzing	examining
+annual	yearly
+apparent	evident
+#apparent	obvious
+appear	seem
+appears	seems
+applied	utilized
+approaches	methodologies
+areas	zones
+argue	posit
+argued	pointed out
+argues	contends
+argument	assertion
+arguments	assertions
+arise	emerge
+arises	emerges
+array	assortment
+article	essay
+articulated	framed
+as well as	including
+as_well_as	including
+#ascertain	determine
+ascertain	verify
+aspect	facet
+aspects	facets
+asserted	claimed
+assertion	argument
+assertions	arguments
+assess	evaluate
+assessed	evaluated
+#assessed	measured
+assessing	evaluating
+#assessing	measuring
+assessment	evaluation
+assessments	evaluations
+associated	correlated
+association between	correlation_between
+#association_between	correlation between
+assortment	array
+#assume	believe
+assume	presume
+assumed	presumed
+assumption	premise
+assure	ensure
+assuring	ensuring
+asymmetries	imbalances
+asymmetry	imbalance
+attain	achieve
+attaining	achieving
+attainment	achievement
+attempted	sought
+#attempted	tried
+attempting	trying
+attributable	attributed
+attributed	attributable
+attributes	characteristics
+#attributes	traits
+authorities	officials
+available	readily available
+aware	cognizant
+away	off
+ban	prohibition
+barriers	obstacles
+based	premised
+based on	based_upon
+#based on	derived_from
+based upon	based_on
+based_on	based upon
+based_upon	based on
+began	started
+begins	starts
+believe	assume
+bolster	strengthen
+bolstered	reinforced
+bonds	ties
+borders	frontiers
+bought	purchased
+break-up	dissolution
+broad_range	wide variety
+broadened	expanded
+broader	wider
+budgetary	fiscal
+build	develop
+builds	draws
+businesses	enterprises
+buy	purchase
+buyers	customers
+calculating	estimating
+calculation	computation
+can_be	could be
+canceled	cancelled
+cancelled	canceled
+capabilities	capacities
+#capacities	capabilities
+#capacity	ability
+capture	uncover
+captures	reflects
+carried out	conducted
+#carried out	performed
+#carried out	undertaken
+carried_out	undertaken
+carry_out	undertake
+cases	instances
+categories	subcategories
+categorization	classification
+categorized	grouped
+caused	triggered
+changed	altered
+changes	transformations
+channeled	channelled
+channelled	channeled
+characterised	typified
+characteristic	feature
+characteristics	attributes
+characterize	describe
+characterized	typified
+child-care	childcare
+childcare	child-care
+choices	decisions
+cited	quoted
+cities	towns
+city	town
+claimed	asserted
+clarify	elucidate
+classification	categorization
+classifications	taxonomies
+#climate_change	global warming
+closely linked	closely_related
+closely_related	closely linked
+closeness	connectedness
+co-exist	coexist
+co-existence	coexistence
+co-operation	cooperation
+co-ordinate	coordinate
+co-ordinated	coordinated
+co-ordination	coordination
+coalitions	alliances
+coexist	co-exist
+coexistence	co-existence
+cognizant	aware
+collaborate	cooperate
+collaboration	cooperation
+collaborations	partnerships
+collect	gather
+collected	gathered
+collectivism	individualism
+colleges	universities
+combines	integrates
+comments	remarks
+commission	committee
+committee	commission
+commodities	goods
+#commodities	products
+commonly	frequently
+companies	firms
+company	corporation
+comparatively	relatively
+compensation	payment
+competences	competencies
+#competencies	competences
+competencies	skills
+complemented	supplemented
+completely	totally
+completing	finishing
+component	element
+components	elements
+composed	comprised
+comprehend	understand
+comprised	composed
+#comprises	consists
+#comprises	covers
+comprises	includes
+comprising	consisting_of
+computation	calculation
+conceive	conceptualize
+concentrates	focuses
+concept	notion
+conception	conceptualization
+#conception	notion
+conceptions	notions
+#conceptions	understandings
+concepts	theories
+conceptual	theoretical
+conceptualised	understood
+conceptualization	conception
+#conceptualize	conceive
+conceptualize	define
+conceptualized	defined
+concerning	regarding
+conditioned	constrained
+conducted	carried out
+conference	symposium
+#configuration	structure
+#configurations	constellations
+configured	constructed
+confined	restricted
+conflicting	contradictory
+conflicts	disputes
+#conflicts	tensions
+conform	adhere
+conformed	adhered
+confronted	faced
+#congruent	aligned
+congruent	consistent
+connected	linked
+connectedness	closeness
+connecting	linking
+connections	linkages
+consequence	result
+consequences	repercussions
+consequently	hence
+consider	look_at
+#consider	recognize
+considerable	substantial
+considerably	substantially
+#considered	deemed
+considered	regarded
+considers	identifies
+consistent	congruent
+consisting	comprising
+consists	comprises
+consolidate	solidify
+constantly	continually
+constellations	configurations
+constitute	represent
+constituted	represented
+constitutes	represents
+constrained	conditioned
+constructed	configured
+construed	interpreted
+contains	includes
+contends	argues
+contentious	controversial
+contexts	settings
+contextual	situational
+continually	constantly
+#continually	continuously
+continues	tends
+continuously	continually
+contradictions	paradoxes
+contradictory	conflicting
+contribute	lead
+contributed	led
+contributes	relates
+controversial	contentious
+controversies	debates
+controversy	debate
+conundrum	dilemma
+convey	express
+cooperate	collaborate
+#cooperation	co-operation
+cooperation	collaboration
+cooperative	co-operative
+coordinate	co-ordinate
+coordinated	co-ordinated
+coordination	co-ordination
+coordinator	director
+corporation	company
+correlated	associated
+#correlated	positively correlated
+correlation between	association_between
+#correlation_between	association between
+corresponds	refers
+could be	can_be
+countries	nations
+covers	comprises
+create	generate
+creates	generates
+credit crunch	sovereign_debt_crisis
+crime	violent crime
+criticised	critiqued
+criticisms	critiques
+criticize	oppose
+criticized	critiqued
+critiqued	criticised
+critiques	criticisms
+cross-country	cross-national
+cross-national	cross-country
+crucial	important
+#crucial	key
+#crucial	vital
+currently	presently
+customers	buyers
+daily	day-to-day
+database	dataset
+dataset	database
+day-to-day	daily
+deal with	handle
+deal_with	tackle
+debate	controversy
+debates	controversies
+#debates	discussions
+decisions	choices
+decisive	pivotal
+declared	proclaimed
+decline	decrease
+declined	decreased
+declining	decreasing
+decrease	decline
+decreased	declined
+decreasing	declining
+dedicated	devoted
+deemed	considered
+deeply rooted	rooted
+deficiencies	deficits
+deficits	deficiencies
+define	conceptualize
+defined	conceptualized
+defines	describes
+demonstrate	highlight
+demonstrated	shown
+#demonstrated	suggested
+#demonstrates	illustrates
+demonstrates	reveals
+demonstrating	showing
+departments	ministries
+dependence	reliance
+dependent	reliant
+depending upon	depending_on
+depending_on	depending upon
+depicted	portrayed
+deployed	utilised
+deregulation	liberalisation
+derived_from	based on
+derives	stems
+describe	characterize
+described	explained
+#describes	defines
+describes	explains
+detailed	thorough
+detected	observed
+deter	prevent
+deteriorate	worsen
+#determine	ascertain
+determined	dictated
+develop	build
+developing_countries	non-industrialized countries
+devices	tools
+devised	adopted
+devoted	dedicated
+dictated	determined
+differ	vary
+differences	variations
+differentiates	distinguishes
+differentiations	distinctions
+differing	varying
+#differs	diverges
+differs	varies
+difficulties	problems
+dilemma	conundrum
+#dimensions	domains
+dimensions	facets
+diminish	lessen
+director	coordinator
+disappointment	frustration
+disciplines	subfields
+discomfort	frustration
+discourses	ideologies
+discuss	explore
+#discussed	mentioned
+discussed	outlined
+discusses	explores
+#discusses	outlines
+discussions	debates
+disenfranchised	marginalised
+disorders	symptoms
+disparities	inequalities
+disparity	gap
+disputes	conflicts
+disregarded	ignored
+dissatisfied	unsatisfied
+dissolution	break-up
+distinctions	differentiations
+distinctiveness	uniqueness
+distinguishes	differentiates
+divergent	diverging
+diverges	differs
+diverging	divergent
+diverse	heterogeneous
+divided	subdivided
+domains	dimensions
+dominant	hegemonic
+doubts	misgivings
+#down	off
+downturn	recession
+dramatic	drastic
+dramatically	drastically
+drastic	dramatic
+drastically	dramatically
+draws	builds
+drifted	moved
+drive	push
+due	owing
+duties	responsibilities
+duty	obligation
+dwellers	residents
+earlier	previous
+earnings	income
+easily	readily
+education	schooling
+effective	efficient
+effectiveness	efficacy
+effects	impacts
+efficacy	effectiveness
+efficient	effective
+elaboration	explication
+#element	component
+#elements	components
+#elements	features
+elucidate	clarify
+#elucidate	explain
+embedded	enmeshed
+emerge	arise
+emerges	arises
+emotions	feelings
+#emphasised	highlighted
+emphasised	stressed
+#emphasised	underlined
+emphasising	stressing
+emphasized	stressed
+emphasizes	stresses
+emphasizing	stressing
+empirical evidence	evidence
+employ	adopt
+employed	utilized
+employees	workers
+employs	uses
+enable	allow
+enabled	helped
+enables	allows
+#enables	helps
+encourage	motivate
+endangering	jeopardizing
+endeavors	endeavours
+endeavours	endeavors
+enforced	regulated
+engaged	involved
+#enhance	facilitate
+enhance	improve
+enhances	improves
+enhancing	improving
+enlarge	expand
+enmeshed	embedded
+enormous	immense
+ensure	assure
+ensuring	assuring
+entail	imply
+#entail	involve
+entails	implies
+#entails	involves
+enterprises	businesses
+#enterprises	firms
+environments	settings
+envisaged	envisioned
+envisioned	envisaged
+especially	particularly
+essay	article
+essential	indispensable
+establishes	maintains
+estimating	calculating
+ethnic	ethno-cultural
+ethnic_groups	ethnicities
+ethnicities	ethnic_groups
+ethnicity	race
+ethno-cultural	ethnic
+ethno-linguistic	ethnolinguistic
+ethnolinguistic	ethno-linguistic
+evaluate	assess
+evaluated	assessed
+evaluating	assessing
+evaluation	assessment
+evaluations	assessments
+even if	even_though
+even though	although
+#even though	even_if
+even_if	even though
+even_though	even if
+everybody	everyone
+everyone	everybody
+evidence	empirical evidence
+evident	apparent
+examination	investigation
+examine	analyze
+#examine	explore
+#examined	analyzed
+#examined	explored
+examined	investigated
+examines	addresses
+#examines	focuses_on
+examining	analyzing
+#examining	exploring
+#examining	focusing_on
+#examining	investigating
+example	instance
+exceed	surpass
+exceeded	surpassed
+exceedingly	extremely
+exceptionally	unusually
+exchanging	sharing
+executives	CEOs
+exemplified	illustrated
+exemplify	illustrate
+#expand	enlarge
+expand	extend
+expanded	broadened
+expenditure	spending
+expenditures	outlays
+experts	specialists
+explain	elucidate
+explained	described
+explains	describes
+explication	elaboration
+exploit	harness
+#explore	discuss
+explore	examine
+explored	examined
+explores	discusses
+exploring	examining
+exposed	subjected
+express	convey
+extend	expand
+extremely	exceedingly
+faced	confronted
+facet	aspect
+facets	aspects
+#facets	dimensions
+facilitate	enhance
+facilitates	fosters
+facilitating	fostering
+facilities	services
+fairly	quite
+family members	relatives
+family_members	relatives
+favorable	favourable
+favoring	favouring
+favourable	favorable
+favouring	favoring
+feature	characteristic
+features	elements
+feelings	emotions
+financed	funded
+financing	funding
+find	observe
+findings	results
+finishing	completing
+#firms	companies
+firms	enterprises
+fiscal	budgetary
+focuses	concentrates
+focuses_on	examines
+focusing	focussing
+focusing_on	examining
+focussing	focusing
+formations	structures
+forms	modes
+formulated	put forward
+forwarded	submitted
+foster	promote
+#fostering	facilitating
+#fostering	promoting
+fostering	strengthening
+fosters	facilitates
+#fosters	promotes
+fraction	portion
+framed	articulated
+freedom	liberty
+#frequently	commonly
+frequently	often
+friends	acquaintances
+frontiers	borders
+fruitful	promising
+#frustration	disappointment
+frustration	discomfort
+fulfil	satisfy
+functioned	served
+funded	financed
+funding	financing
+funds	monies
+furthermore	moreover
+futile	pointless
+gap	disparity
+#gas	petroleum
+gather	collect
+gathered	collected
+genders	sexes
+#generate	create
+generate	produce
+generated	produced
+#generates	creates
+generates	produces
+generating	producing
+geo-political	geopolitical
+geographically	spatially
+geopolitical	geo-political
+give rise	lead
+gives	offers
+gives rise	leads
+global warming	climate_change
+goal	aim
+#goal	ultimate goal
+goals	objectives
+goods	commodities
+govern	regulate
+governed	regulated
+governor	mayor
+gradually	progressively
+greater	higher
+greenhouse_gas_emissions	GHG emissions
+#groundbreaking	pioneering
+groundbreaking	seminal
+grouped	categorized
+guidance	advice
+guided	inspired
+guidelines	recommendations
+had_been	was
+handle	deal with
+happens	occurs
+happiness	life satisfaction
+harness	exploit
+hegemonic	dominant
+helped	enabled
+helpful	useful
+helps	enables
+hence	consequently
+heretofore	hitherto
+hesitant	reluctant
+heterogeneity	variability
+heterogeneous	diverse
+high-skilled	highly_skilled
+high_levels	higher levels
+higher	greater
+higher levels	high_levels
+#highlight	demonstrate
+highlight	illustrate
+highlighted	emphasised
+highlighting	illustrating
+highly skilled	skilled
+highly valued	valued
+highly_skilled	high-skilled
+highway	road
+hitherto	heretofore
+homogeneity	uniformity
+hopelessness	loneliness
+hosted	sponsored
+huge	tremendous
+human_beings	humans
+humanities	social_sciences
+humanity	humankind
+humankind	humanity
+humans	human_beings
+hurdles	obstacles
+idea	notion
+identifies	considers
+identify	pinpoint
+ideologies	discourses
+ignored	disregarded
+#ignored	overlooked
+illustrate	exemplify
+#illustrate	highlight
+illustrated	exemplified
+illustrates	demonstrates
+illustrating	highlighting
+imbalance	asymmetry
+imbalances	asymmetries
+immense	enormous
+impact	influence
+impacted	affected
+impacts	effects
+implications	ramifications
+implies	entails
+imply	entail
+implying	suggesting
+important	crucial
+improve	enhance
+improves	enhances
+improving	enhancing
+in-depth interviews	interviews
+inadequate	insufficient
+inasmuch	insofar
+includes	comprises
+#includes	contains
+#including	as well as
+#including	as_well_as
+including	such_as
+income	earnings
+incomes	wages
+incorporate	integrate
+incorporating	integrating
+increased	increasing
+increasing	increased
+#indicate	show
+indicate	suggest
+#indicated	reported
+indicated	revealed
+#indicates	shows
+indicates	suggests
+indicating	suggesting
+indicators	indices
+#indicators	measures
+indices	indicators
+indispensable	essential
+individualism	collectivism
+individuals	persons
+industries	sectors
+inequalities	disparities
+#inequalities	inequities
+inequitable	unequal
+inequities	inequalities
+inextricable	inseparable
+inferences	predictions
+influence	impact
+influenced	shaped
+influencing	affecting
+influential	prominent
+inherently	intrinsically
+#initiated	instigated
+initiated	launched
+initiatives	projects
+innovation	technological innovation
+inseparable	inextricable
+insofar	inasmuch
+inspired	guided
+instability	turbulence
+instance	example
+instances	cases
+instigated	initiated
+institutional	organisational
+institutions	organizations
+instructor	teacher
+instructors	teachers
+insufficient	inadequate
+integrate	incorporate
+integrates	combines
+integrating	incorporating
+intends	seeks
+inter-cultural	intercultural
+inter-generational	intergenerational
+inter-governmental	intergovernmental
+interactions	relationships
+interconnectedness	interdependence
+interconnection	interrelationship
+intercultural	inter-cultural
+interdependence	interconnectedness
+interesting	intriguing
+intergenerational	inter-generational
+intergovernmental	inter-governmental
+interplay	interrelationship
+interpreted	construed
+interrelationship	interconnection
+#interrelationship	interplay
+interviews	in-depth interviews
+intolerance	prejudice
+intriguing	interesting
+intrinsically	inherently
+introduce	incorporate
+introduces	presents
+investigated	examined
+#investigated	studied
+#investigating	examining
+investigation	examination
+involve	entail
+involved	engaged
+involves	entails
+jeopardizing	endangering
+job_seekers	jobseekers
+jobless	unemployed
+jobseekers	job_seekers
+justify	legitimize
+key	crucial
+kind	sort
+#kinds	sorts
+kinds	types
+labeled	labelled
+labelled	labeled
+laboratories	labs
+labs	laboratories
+laid_down	stipulated
+launched	initiated
+laws	regulations
+#lead	contribute
+lead	give rise
+leads	gives rise
+learners	students
+led	contributed
+legitimize	justify
+lens	prism
+#lessen	diminish
+lessen	reduce
+liberal	libertarian
+liberalisation	deregulation
+libertarian	liberal
+liberty	freedom
+life satisfaction	happiness
+life-long	lifelong
+life_course	lifecourse
+life_satisfaction	subjective well-being
+lifecourse	life_course
+lifelong	life-long
+likelihood	probability
+limit	restrict
+limitations	shortcomings
+limiting	restricting
+link between	relationship_between
+link_between	relationship between
+linkages	connections
+#linkages	links
+linked	connected
+#linked	related
+#linked	tied
+linking	connecting
+links	linkages
+live	reside
+local governments	local_authorities
+local_authorities	local governments
+logics	rationalities
+loneliness	hopelessness
+long-term	longer-term
+longer-term	long-term
+look_at	consider
+low-skilled	unskilled
+lowered	reduced
+lowers	reduces
+macro-economic	macroeconomic
+macroeconomic	macro-economic
+main	principal
+#mainly	mostly
+mainly	primarily
+maintain	retain
+#maintain	sustain
+maintains	establishes
+#maintains	recognizes
+majority	vast majority
+many	some
+marginalised	disenfranchised
+markedly	noticeably
+market-based	market-oriented
+market-oriented	market-based
+maximize	optimize
+may be	might_be
+may_be	might be
+mayor	governor
+measured	assessed
+measures	indicators
+measuring	assessing
+mechanisms	processes
+meet	satisfy
+member states	Member_States
+member_states	Member States
+mentioned	discussed
+merely	simply
+method	technique
+#methodologies	approaches
+methodologies	methods
+#methods	methodologies
+methods	techniques
+might	would
+might be	may_be
+might_be	may be
+migration_flows	migratory flows
+migratory flows	migration_flows
+milestone	turning point
+ministries	departments
+mirrored	reflected
+misgivings	doubts
+mitigate	ameliorate
+modes	forms
+monies	funds
+moreover	furthermore
+mostly	mainly
+motivate	encourage
+motivations	motives
+motives	motivations
+moved	drifted
+multi-dimensional	multidimensional
+multi-level	multilevel
+multidimensional	multi-dimensional
+multilevel	multi-level
+multiple	various
+#must	shall
+must	should
+must_be	should be
+nations	countries
+nearly	almost
+necessitate	require
+necessitates	requires
+needed	required
+neglected	overlooked
+neighborhood	neighbourhood
+neighboring	neighbouring
+neighbourhood	neighborhood
+neighbouring	neighboring
+neo-liberal	neoliberal
+neo-liberalism	neoliberalism
+neoliberal	neo-liberal
+neoliberalism	neo-liberalism
+nomenclature	terminology
+non-discrimination	nondiscrimination
+non-industrialized countries	developing_countries
+non-migrants	stayers
+non-response	nonresponse
+nondiscrimination	non-discrimination
+nonresponse	non-response
+normally	usually
+#noted	pointed out
+noted	pointed_out
+#noted	stated
+#noted	suggested
+noticeable	pronounced
+noticeably	markedly
+noting	pointing out
+notion	concept
+#notion	conception
+#notion	idea
+notions	conceptions
+numbers	proportions
+numerous	several
+objectives	goals
+#objectives	priorities
+obligated	obliged
+obligation	duty
+obligations	responsibilities
+obliged	obligated
+observe	find
+observed	detected
+#obstacles	barriers
+obstacles	hurdles
+obvious	apparent
+occur	take place
+#occur	take_place
+occurring	taking_place
+occurs	happens
+#occurs	takes place
+#occurs	takes_place
+#off	away
+#off	down
+offer	provide
+offered	provided
+offering	providing
+#offers	gives
+offers	provides
+officials	authorities
+often	frequently
+#oil	petroleum
+on-going	ongoing
+ongoing	on-going
+oppose	criticize
+optimize	maximize
+organisational	institutional
+#organisations	agencies
+organizations	institutions
+orientated	oriented
+oriented	orientated
+outlays	expenditures
+outlined	discussed
+outlines	discusses
+#overlooked	ignored
+overlooked	neglected
+overseas	abroad
+owing	due
+paradoxes	contradictions
+paramount_importance	utmost importance
+parental_leave	paternity leave
+partake	participate
+participants	respondents
+participate	partake
+particularities	specificities
+particularly	especially
+partnerships	collaborations
+paternity leave	parental_leave
+paths	pathways
+pathways	paths
+payment	compensation
+payments	subsidies
+penalties	sanctions
+per cent	percent
+per_cent	percent
+percent	per cent
+#percent	per_cent
+percentage	proportion
+percentages	proportions
+performed	carried out
+permitted	allowed
+perpetuate	reinforce
+perplexing	puzzling
+personnel	staff
+persons	individuals
+perspective	viewpoint
+perspectives	viewpoints
+pertain	relate
+pertaining	relating
+pertains	relates
+pertinent	relevant
+#petroleum	gas
+#petroleum	oil
+phase	stage
+phases	stages
+phrase	word
+pinpoint	identify
+pioneering	groundbreaking
+pivotal	decisive
+placing	putting
+#pointed out	argued
+pointed out	noted
+pointed_out	noted
+pointing out	noting
+pointless	futile
+policy-making	policymaking
+policymaking	policy-making
+portion	fraction
+portrayed	depicted
+posit	argue
+#posit	propose
+positively correlated	correlated
+posits	proposes
+post-colonial	postcolonial
+post-national	postnational
+post-war	postwar
+postcolonial	post-colonial
+postnational	post-national
+postwar	post-war
+potent	powerful
+powerful	potent
+precision	accuracy
+precondition	prerequisite
+predictions	inferences
+predominantly	predominately
+predominately	predominantly
+prejudice	intolerance
+premise	assumption
+premised	based
+prerequisite	precondition
+presently	currently
+presents	introduces
+presume	assume
+presumed	assumed
+prevent	deter
+previous	earlier
+primarily	mainly
+principal	main
+priorities	objectives
+prism	lens
+probability	likelihood
+problems	difficulties
+procedural justice	procedural_fairness
+procedural_fairness	procedural justice
+processes	mechanisms
+proclaimed	declared
+produce	generate
+produced	generated
+produces	generates
+producing	generating
+products	commodities
+programme	project
+programmes	programs
+programs	programmes
+progressively	gradually
+prohibition	ban
+project	programme
+projects	initiatives
+prominent	influential
+promising	fruitful
+promote	foster
+promotes	fosters
+promoting	fostering
+pronounced	noticeable
+proportion	percentage
+#proportions	numbers
+proportions	percentages
+proposals	recommendations
+propose	posit
+proposes	posits
+protect	safeguard
+protecting	safeguarding
+provide	offer
+provided	offered
+provides	offers
+providing	offering
+provisions	stipulations
+publically	publicly
+publicly	publically
+pupils	students
+purchase	buy
+purchased	bought
+push	drive
+put forth	put_forward
+put forward	formulated
+put_forward	put forth
+putting	placing
+puzzling	perplexing
+quickly	swiftly
+quite	fairly
+#quite	very
+quoted	cited
+race	ethnicity
+ramifications	implications
+randomly selected	sampled
+range	variety
+rarely	seldom
+ratings	scores
+rationalities	logics
+react	respond
+reacted	responded
+readily	easily
+readily available	available
+ready	willing
+reassessment	reconsideration
+recent decades	recent_years
+recent_years	recent decades
+recession	downturn
+recognised	acknowledged
+#recognize	acknowledge
+recognize	consider
+recognized	acknowledged
+recognizes	acknowledges
+#recognizes	maintains
+recognizing	acknowledging
+#recommendations	guidelines
+#recommendations	proposals
+recommendations	suggestions
+reconfiguration	transformation
+reconsideration	reassessment
+reduce	lessen
+reduced	lowered
+reduces	lowers
+refer	relate
+#refers	corresponds
+refers	relates
+reflected	mirrored
+reflects	captures
+reformed	restructured
+refrain	abstain
+refugees	#asylum_seekers
+regard	respect
+#regarded	considered
+regarded	viewed
+regarding	concerning
+regulate	govern
+regulated	enforced
+#regulated	governed
+regulations	laws
+reinforce	perpetuate
+reinforced	bolstered
+reinforcing	undermining
+#relate	pertain
+relate	refer
+related	linked
+#relates	contributes
+#relates	pertains
+relates	refers
+relating	pertaining
+relationship between	link_between
+relationship_between	link between
+relationships	interactions
+relatively	comparatively
+relatives	family members
+#relatives	family_members
+relevance	significance
+relevant	pertinent
+reliance	dependence
+reliant	dependent
+relies	rests
+relocation	resettlement
+reluctant	hesitant
+remarkable	striking
+remarks	comments
+reminded	told
+renewable energy	renewables
+renewable_energy	renewables
+renewables	renewable energy
+#renewables	renewable_energy
+reorganization	restructuring
+repercussions	consequences
+replaced	superseded
+replied	said
+reported	indicated
+represent	constitute
+represented	constituted
+represents	constitutes
+repress	resist
+require	necessitate
+required	needed
+requires	necessitates
+researchers	scholars
+researches	studies
+researching	studying
+resettlement	relocation
+reshape	transform
+reshaped	altered
+reside	live
+residence permit	visa
+residence permits	visas
+residents	dwellers
+resist	repress
+respect	regard
+respond	react
+responded	reacted
+respondents	participants
+#responsibilities	duties
+responsibilities	obligations
+restrict	limit
+restricted	confined
+restricting	limiting
+restrictive	stringent
+restructured	reformed
+restructuring	reorganization
+rests	relies
+result	consequence
+#results	findings
+retain	maintain
+reveal	show
+#revealed	indicated
+revealed	showed
+reveals	demonstrates
+#reveals	shows
+richest	wealthiest
+road	highway
+rocket	spacecraft
+rooted	deeply rooted
+safeguard	protect
+safeguarding	protecting
+said	replied
+salaries	wages
+sample	subsample
+sampled	randomly selected
+#sampled	selected
+sanctions	penalties
+satisfy	fulfil
+#satisfy	meet
+schedule	timetable
+scholars	researchers
+schooling	education
+scores	ratings
+sectoral	sectorial
+sectorial	sectoral
+sectors	industries
+seeks	intends
+seem	appear
+seems	appears
+seen	observed
+seldom	rarely
+selected	sampled
+self-esteem	self-worth
+self-worth	self-esteem
+seminal	groundbreaking
+served	functioned
+services	facilities
+settings	contexts
+#settings	environments
+several	numerous
+sexes	genders
+shall	must
+shaped	influenced
+sharing	exchanging
+shortcomings	limitations
+#shortcomings	weaknesses
+should	must
+should be	must_be
+show	indicate
+#show	reveal
+showed	revealed
+showing	demonstrating
+shown	demonstrated
+shows	indicates
+#shows	reveals
+significance	relevance
+significantly	substantially
+simply	merely
+situational	contextual
+skilled	highly skilled
+skills	competencies
+social_sciences	humanities
+socio-demographic	sociodemographic
+socio-economic_status	socioeconomic status
+socio-technical	sociotechnical
+sociodemographic	socio-demographic
+socioeconomic status	socio-economic_status
+sociotechnical	socio-technical
+solidify	consolidate
+some	many
+sort	kind
+sorts	kinds
+sought	attempted
+sovereign_debt_crisis	credit crunch
+spacecraft	rocket
+spatially	geographically
+specialists	experts
+specificities	particularities
+specifies	establishes
+spending	expenditure
+spoke	talked
+sponsored	hosted
+spur	stimulate
+staff	personnel
+stage	phase
+stages	phases
+started	began
+starts	begins
+stated	noted
+stayers	non-migrants
+stems	derives
+stimulate	spur
+stipulated	laid_down
+stipulations	provisions
+stories	tales
+story	tale
+strain	stress
+strategies	tactics
+strengthen	bolster
+#strengthen	promote
+strengthening	fostering
+stress	strain
+stressed	emphasised
+#stressed	emphasized
+stresses	emphasizes
+stressing	emphasising
+#stressing	emphasizing
+striking	remarkable
+stringent	restrictive
+structural	systemic
+#structure	configuration
+#structures	formations
+#students	learners
+students	pupils
+studied	investigated
+reviewed	studied
+studies	researches
+studying	researching
+sub-systems	subsystems
+subcategories	categories
+subdivided	divided
+subfields	disciplines
+subjected	exposed
+subjective well-being	life_satisfaction
+subjective wellbeing	subjective_well-being
+subjective_well-being	subjective wellbeing
+submitted	forwarded
+subsample	sample
+subsidies	payments
+substantial	considerable
+substantially	considerably
+#substantially	significantly
+subsystems	sub-systems
+such_as	including
+suggest	indicate
+suggested	demonstrated
+#suggested	noted
+suggesting	implying
+#suggesting	indicating
+suggestions	recommendations
+suggests	indicates
+superseded	replaced
+supplemental	supplementary
+supplementary	supplemental
+supplemented	complemented
+supra-national	supranational
+supranational	supra-national
+surpass	exceed
+surpassed	exceeded
+sustain	maintain
+sustainability	sustainable development
+#sustainability	sustainable_development
+sustainable development	sustainability
+sustainable_development	sustainability
+swiftly	quickly
+symposium	conference
+symptoms	disorders
+systemic	structural
+#tackle	address
+tackle	deal_with
+tackled	addressed
+tackling	addressing
+tactics	strategies
+take place	occur
+take_place	occur
+takes place	occurs
+takes_place	occurs
+taking_place	occurring
+tale	story
+tales	stories
+talked	spoke
+taxonomies	classifications
+taxonomy	typology
+teacher	instructor
+teachers	instructors
+technique	method
+techniques	methods
+#techniques	tools
+technological innovation	innovation
+teenagers	young adults
+tends	continues
+tensions	conflicts
+terminology	nomenclature
+#theoretical_capacity	ideal_capacity
+theories	concepts
+thorough	detailed
+though	although
+through	via
+tied	linked
+ties	bonds
+till	until
+timetable	schedule
+told	reminded
+tools	devices
+#tools	techniques
+totally	completely
+town	city
+towns	cities
+trade	trading
+trading	trade
+traits	attributes
+transform	reshape
+transformation	reconfiguration
+transformations	changes
+transformed	absorbed
+treaties	agreements
+tremendous	huge
+tried	attempted
+triggered	caused
+trying	attempting
+turbulence	instability
+turned_out	turns out
+turning point	milestone
+turns out	turned_out
+two-fold	twofold
+twofold	two-fold
+types	kinds
+typically	usually
+typified	characterised
+#typified	characterized
+typology	taxonomy
+ultimate goal	goal
+unable	reluctant
+uncover	capture
+underlined	emphasised
+undermining	reinforcing
+understand	comprehend
+understandings	conceptions
+understood	conceptualised
+undertake	carry_out
+undertaken	carried out
+#undertaken	carried_out
+unemployed	jobless
+unequal	inequitable
+uniformity	homogeneity
+uniqueness	distinctiveness
+universities	colleges
+unsatisfied	dissatisfied
+unskilled	low-skilled
+until	till
+unusually	exceptionally
+used	utilized
+useful	helpful
+#useful	valuable
+uses	employs
+usually	normally
+#usually	typically
+#utilised	deployed
+#utilized	applied
+utilized	employed
+#utilized	used
+utmost importance	paramount_importance
+valuable	useful
+valued	highly valued
+variability	heterogeneity
+#variability	variation
+variation	variability
+variations	differences
+varies	differs
+#variety	range
+variety	wide range
+various	multiple
+vary	differ
+varying	differing
+vast majority	majority
+verify	ascertain
+very	quite
+via	through
+#viewed	regarded
+viewed	seen
+viewpoint	perspective
+viewpoints	perspectives
+violent crime	crime
+visa	residence permit
+visas	residence permits
+vital	crucial
+wages	incomes
+#wages	salaries
+wake	aftermath
+want	wish
+wanted	wished
+was	had_been
+weaknesses	shortcomings
+wealthiest	richest
+webpage	website
+website	webpage
+whereby	wherein
+wherein	whereby
+while	whilst
+whilst	while
+wide range	variety
+wide variety	broad_range
+wider	broader
+willing	ready
+#willing	reluctant
+wish	want
+wished	wanted
+word	phrase
+work-family balance	work-life_balance
+work-life_balance	work-family balance
+workers	employees
+worsen	deteriorate
+would	might
+yearly	annual
+years old	aged
+young adults	teenagers
+#young adults	young_people
+young people	youth
+young_people	young adults
+youth	young people
+zones	areas
+3-D	three-dimensional
+#Additionally	Further
+Additionally	In_addition
+Admittedly	Evidently
+After	Upon
+Apart from	Besides
+Approximately	Nearly
+Arguably	Undoubtedly
+Assessment	Evaluation
+Assume	Suppose
+Based	Drawing
+Based on	Using
+Besides	Apart from
+By contrast	In_contrast
+Certain	Specific
+Combined	Coupled
+Concomitantly	Concurrently
+Concurrently	Concomitantly
+Confronted	Faced
+Connections	Links
+Considerable	Substantial
+Continued	Ongoing
+Coupled	Combined
+#Current	Existing
+Drawing	Based
+Employing	Utilizing
+Evaluation	Assessment
+Evidently	Admittedly
+Existing	Current
+Exploring	Studying
+Faced	Confronted
+Few	Very few
+Findings	Results
+Further	Additionally
+GHG	greenhouse_gas
+Generally	Typically
+Highlighting	Taking_into_account
+Immediately	Shortly
+In_addition	Additionally
+In_contrast	By contrast
+Increased	Increasing
+Increasing	Increased
+Influenced	Inspired
+Initial	Preliminary
+#Initially	Subsequently
+Inspired	Influenced
+Interestingly	Notably
+Links	Connections
+Located	Situated
+More recently	Recently
+Nearly	Approximately
+Notably	Interestingly
+#Notably	Significantly
+Nowadays	Today
+Ongoing	Continued
+Preliminary	Initial
+Previous	Recent
+Recent	Previous
+Recently	More recently
+Researchers	Scholars
+recently	lately
+Results	Findings
+Scanning Electron Microscope	scanning_electron_microscope
+Scholars	Researchers
+Several	Various
+Shortly	Immediately
+Shortly after	Soon_after
+Significantly	Notably
+Situated	Located
+Soon_after	Shortly after
+Specific	Certain
+Studying	Exploring
+Subsequently	Thereafter
+Substantial	Considerable
+Suppose	Assume
+Taking_into_account	Highlighting
+Thereafter	Subsequently
+Today	Nowadays
+Typically	Generally
+Undoubtedly	Arguably
+Upon	After
+Using	Based on
+Utilizing	Employing
+Various	Several
+Very few	Few
+#above-mentioned	abovementioned
+above-mentioned	aforementioned
+abovementioned	above-mentioned
+abundant	plentiful
+achievable	attainable
+achieved	attained
+adjacent	adjoining
+adjoining	adjacent
+admit	concede
+adopts	employs
+adorn	decorate
+advancements	advances
+advances	advancements
+aforementioned	above-mentioned
+aggravate	exacerbate
+alleviated	mitigated
+allows_us	enables us
+allude	attest
+alterations	modifications
+analyzes	investigates
+annoyed	upset
+#approaches	frameworks
+arrested	imprisoned
+ascertained	verified
+ascribe	attach
+#ascribing	attaching
+ascribing	attributing
+aspect	dimension
+assesses	evaluates
+assumes	posits
+assumptions	presumptions
+assures	ensures
+astonishing	astounding
+astonishing	impressive
+astounding	astonishing
+attach	ascribe
+attaching	ascribing
+attainable	achievable
+attained	achieved
+attenuate	magnify
+attest	allude
+attributing	ascribing
+bi-directional	bidirectional
+bidirectional	bi-directional
+binary	dichotomous
+broaden	widen
+broadens	expands
+broken down	decomposed
+burned	burnt
+burnt	burned
+calculate	compute
+calculates	computes
+carry out	execute
+caused	induced
+cell_phone	mobile phone
+ceramic	pottery
+characterizes	underlies
+checked	inspected
+chiefly	principally
+chooses	decides
+chooses	prefers
+circumvent	evade
+clarified	elucidated
+clear-cut	straightforward
+#climate change	global_warming
+co-existed	coexisted
+co-workers	coworkers
+coexisted	co-existed
+collapse	disintegration
+collated	compiled
+collects	gathers
+color	colour
+colors	colours
+colour	color
+colours	colors
+competitors	rivals
+compiled	collated
+complexities	intricacies
+comprise	consist
+comprise	constitute
+compromised	jeopardized
+compute	calculate
+computes	calculates
+concede	admit
+conceptual framework	framework
+concerned	preoccupied
+concomitant	consequent
+confirm	corroborate
+confirmed	revealed
+confusion	misunderstanding
+connote	signify
+consequent	concomitant
+considerable	tremendous
+consist	comprise
+#constitute	comprise
+constrains	restricts
+contextual factors	factors
+convincingly	persuasively
+corroborate	confirm
+cost-effective	cost-efficient
+cost-efficient	cost-effective
+coworkers	co-workers
+cracks	fissures
+cut-off	cutoff
+cutoff	cut-off
+damaged	destroyed
+damaging	harmful
+decelerate	slow_down
+decides	chooses
+decision-makers	policy-makers
+decomposed	broken down
+decorate	adorn
+decoupled	dissociated
+deduce	infer
+#deduced	derived
+deduced	inferred
+deleterious	detrimental
+denote	designate
+denotes	signifies
+depend	rely
+depict	portray
+depicts	portrays
+depletion	overexploitation
+depressed	distressed
+derived	deduced
+derives	originates
+deriving	stemming
+described_above	discussed above
+designate	denote
+#destroyed	damaged
+destroyed	ruined
+detach	dissociate
+detect	pinpoint
+detectable	discernible
+deter	discourage
+deteriorated	worsened
+deteriorating	worsening
+determine	specify
+detrimental	deleterious
+devise	formulate
+dichotomous	binary
+dimension	aspect
+diminished	lessened
+disappear	vanish
+disappeared	vanished
+disappears	vanishes
+disappointed	frustrated
+#disassociated	dissociated
+discernible	detectable
+disclose	divulge
+discourage	deter
+discrepancy	mismatch
+discussed above	described_above
+discussed before	mentioned_above
+discussed_above	mentioned above
+disintegration	collapse
+dislocation	displacement
+displacement	dislocation
+display	exhibit
+displaying	exhibiting
+displays	exhibits
+disregarding	ignoring
+dissociate	detach
+dissociated	decoupled
+dissociated	disassociated
+distinctively	distinctly
+distinctly	distinctively
+distressed	depressed
+divulge	disclose
+downturn	slowdown
+drawback	shortcoming
+drawbacks	shortcomings
+dubbed	termed
+easily accessible	readily_available
+eclipsed	overshadowed
+eco-friendly	environmentally friendly
+ecologically	environmentally
+elicits	provokes
+eliminate	remove
+eliminates	removes
+eliminating	removing
+elucidated	clarified
+elucidated	explicated
+emanate	originate
+embed	incorporate
+emission spectrometry	emission_spectroscopy
+emission_spectroscopy	emission spectrometry
+emphasizes	underlines
+employ	utilize
+employing	utilizing
+employs	adopts
+employs	utilizes
+enables us	allows_us
+encourages	motivates
+engender	induce
+engineers	technicians
+enhances	strengthens
+enormously	immensely
+enormously	tremendously
+ensures	assures
+entwined	intertwined
+environment-friendly	environmentally friendly
+environment-friendly	environmentally_friendly
+environmentally	ecologically
+environmentally friendly	eco-friendly
+environmentally friendly	environment-friendly
+environmentally_friendly	environment-friendly
+estimates	estimations
+estimations	estimates
+evacuated	evicted
+evade	circumvent
+evaluates	assesses
+ever-growing	ever-increasing
+ever-increasing	ever-growing
+evicted	evacuated
+evidenced	exemplified
+exacerbate	aggravate
+exceeds	surpasses
+excitement	joy
+execute	carry out
+exemplified	evidenced
+exhausting	tiring
+exhibit	display
+exhibiting	displaying
+exhibits	displays
+expands	broadens
+expel	restrain
+explicated	elucidated
+exploit	take_advantage
+explorative	exploratory
+exploratory	explorative
+explosion	upsurge
+extracted	retrieved
+extraordinary	incredible
+facilitated	fostered
+factors	contextual factors
+favorably	favourably
+favors	favours
+favourably	favorably
+favours	favors
+first-hand	firsthand
+firsthand	first-hand
+fissures	cracks
+flaws	shortcomings
+formulate	devise
+fostered	facilitated
+fragments	pieces
+framework	conceptual framework
+frameworks	approaches
+frustrated	disappointed
+fulfill	satisfy
+functionally	structurally
+gathers	collects
+give_rise	lead
+gives_rise	leads
+#global_warming	climate change
+greenhouse_gas	GHG
+guess	suppose
+hamper	impede
+hampering	impeding
+harmful	damaging
+harnessed	leveraged
+henceforth	hereafter
+hereafter	henceforth
+highlight	underscore
+hinder	inhibit
+hindered	impeded
+hindering	impeding
+hinders	impedes
+horrible	terrible
+i-th	ith
+ideally suited	well_suited
+ignoring	disregarding
+ignoring	neglecting
+imitate	mimic
+immensely	enormously
+impart	transmit
+impede	hamper
+impeded	hindered
+impeded	inhibited
+impedes	hinders
+impedes	inhibits
+impeding	hampering
+impeding	hindering
+impeding	inhibiting
+implies	signifies
+impractical	unfeasible
+impressive	astonishing
+imprisoned	arrested
+inaccurate	misleading
+inadequacy	insufficiency
+incorporate	embed
+incorporates	integrates
+incorporates	takes_into_account
+incorrect	invalid
+incredible	extraordinary
+indexes	indices
+indices	indexes
+induce	engender
+induce	trigger
+induced	caused
+infer	deduce
+inferred	deduced
+inhabited	occupied
+inhibit	hinder
+inhibited	impeded
+inhibiting	impeding
+inhibits	impedes
+initiate	instigate
+inquiries	investigations
+insight into	insights_into
+insight_into	insights into
+insights into	insight_into
+insights_into	insight into
+insignificant	negligible
+insignificant	statistically insignificant
+inspected	checked
+instigate	initiate
+insufficiency	inadequacy
+integrates	incorporates
+intends	tries
+inter-disciplinary	interdisciplinary
+interconnected	interlinked
+interdisciplinary	inter-disciplinary
+interlinked	interconnected
+interplay	interrelation
+interrelation	interplay
+intertwined	entwined
+intricacies	complexities
+invalid	incorrect
+investigates	analyzes
+investigations	inquiries
+ith	i-th
+jeopardized	compromised
+joy	excitement
+laborious	tedious
+last 10 years	last_decade
+last_decade	last 10 years
+lead	give_rise
+leads	gives_rise
+lessened	diminished
+leveraged	harnessed
+life-cycle	lifecycle
+lifecycle	life-cycle
+locate	situate
+long-time	longtime
+longtime	long-time
+magnify	attenuate
+manifested	reflected
+mentioned above	discussed_above
+mentioned above	mentioned_earlier
+mentioned_above	discussed before
+mentioned_earlier	mentioned above
+mid-point	midpoint
+midpoint	mid-point
+might be	would_be
+mimic	imitate
+minimized	mitigated
+mirrors	resembles
+misleading	inaccurate
+mismatch	discrepancy
+misunderstanding	confusion
+mitigated	alleviated
+mitigated	minimized
+mobile phone	cell_phone
+mobile phones	smartphones
+mobile_phones	smartphones
+modeled	modelled
+modeling	modelling
+modelled	modeled
+modelling	modeling
+modifications	alterations
+motivates	encourages
+multi-disciplinary	multidisciplinary
+multidisciplinary	multi-disciplinary
+must be	should_be
+needles	syringes
+neglecting	ignoring
+negligible	insignificant
+neighbor	neighbour
+neighbour	neighbor
+non-linear	nonlinear
+non-parametric	nonparametric
+non-traditional	nontraditional
+nonlinear	non-linear
+nonparametric	non-parametric
+nontraditional	non-traditional
+notable	noteworthy
+notable	noticeable
+noteworthy	notable
+noticeable	notable
+occupied	inhabited
+occurring	taking place
+on-line	online
+one-dimensional	unidimensional
+online	on-line
+originate	emanate
+originates	derives
+ought	should
+outlined	summarized
+over-simplification	oversimplification
+overexploitation	depletion
+overshadowed	eclipsed
+oversimplification	over-simplification
+paramount importance	utmost_importance
+persuasively	convincingly
+photographs	photos
+photos	photographs
+pieces	fragments
+pinpoint	detect
+plentiful	abundant
+policy-makers	decision-makers
+portray	depict
+portrays	depicts
+posited	postulated
+posits	assumes
+possesses	retains
+postulated	posited
+pottery	ceramic
+pre-determined	predetermined
+precluded	prevented
+predetermined	pre-determined
+prefers	chooses
+preoccupied	concerned
+presented	summarized
+preserves	retains
+presumptions	assumptions
+prevented	precluded
+principally	chiefly
+procedure	protocol
+produce	yield
+prone	susceptible
+proportional	proportionate
+proportionate	proportional
+protocol	procedure
+provokes	elicits
+qualitative	quantitative
+quantitative	qualitative
+rated	scored
+re-establish	restore
+re-use	reuse
+reacts	responds
+readily_available	easily accessible
+real-life	real-world
+real-world	real-life
+realize	recognize
+rebuilt	restored
+recent years	recent_decades
+recent_decades	recent years
+recognize	realize
+reconstitute	reconstruct
+reconstruct	reconstitute
+recurrent	recurring
+recurring	recurrent
+redemption	salvation
+redundant	superfluous
+reflected	manifested
+reliability	validity
+rely	depend
+remove	eliminate
+removes	eliminates
+removing	eliminating
+reorganize	restructure
+repetitious	repetitive
+repetitive	repetitious
+replaced	substituted
+replicability	reproducibility
+repressed	suppressed
+reproducibility	replicability
+researched	studied
+resembles	mirrors
+resistant	susceptible
+resolved	solved
+responds	reacts
+restore	re-establish
+restored	rebuilt
+restrain	expel
+restrain	suppress
+restricts	constrains
+restructure	reorganize
+retains	possesses
+retains	preserves
+retrieved	extracted
+reuse	re-use
+revealed	confirmed
+rivals	competitors
+ruined	destroyed
+salvation	redemption
+satisfy	fulfill
+scanning_electron_microscope	Scanning Electron Microscope
+scored	rated
+self-sacrifice	selflessness
+selflessness	self-sacrifice
+set-up	setup
+setup	set-up
+shipped	transported
+shortcoming	drawback
+shortcomings	drawbacks
+#shortcomings	flaws
+should	ought
+should_be	must be
+should_be_noted	worth noting
+signaling	signalling
+signalling	signaling
+signifies	denotes
+signifies	implies
+signify	connote
+situate	locate
+sloped	sloping
+sloping	sloped
+slow_down	decelerate
+slowdown	downturn
+smartphones	mobile phones
+smartphones	mobile_phones
+solved	resolved
+specify	determine
+speculate	surmise
+speculated	surmised
+stabilize	sustain
+stand-alone	standalone
+standalone	stand-alone
+standpoint	viewpoint
+statistically insignificant	insignificant
+stemming	deriving
+step-wise	stepwise
+stepwise	step-wise
+straightforward	clear-cut
+strengthened	undermined
+strengthens	enhances
+structurally	functionally
+studied	researched
+substituted	replaced
+summarized	outlined
+summarized	presented
+superfluous	redundant
+superiority	supremacy
+supply_chains	value chains
+suppose	guess
+suppress	restrain
+suppressed	repressed
+supremacy	superiority
+surmise	speculate
+surmised	speculated
+surpasses	exceeds
+susceptible	prone
+susceptible	resistant
+sustain	stabilize
+syringes	needles
+take_advantage	exploit
+takes_into_account	incorporates
+taking place	occurring
+technicians	engineers
+tedious	laborious
+tedious	time-consuming
+termed	dubbed
+terrible	horrible
+three-dimensional	3-D
+time-consuming	tedious
+tiring	exhausting
+toolbox	toolkit
+toolkit	toolbox
+trade-off	tradeoff
+tradeoff	trade-off
+transmit	impart
+transported	shipped
+tremendous	considerable
+tremendously	enormously
+tries	intends
+trigger	induce
+turned out	turns_out
+turns_out	turned out
+two-stage	two-step
+two-step	two-stage
+unanticipated	unexpected
+underlies	characterizes
+underlines	emphasizes
+undermined	strengthened
+undermined	weakened
+underscore	highlight
+undesirable	undesired
+undesired	undesirable
+unequally distributed	unevenly_distributed
+unevenly_distributed	unequally distributed
+unexpected	unanticipated
+unfavorable	unfavourable
+unfavourable	unfavorable
+unfeasible	impractical
+unidimensional	one-dimensional
+unresolved	unsolved
+unsolved	unresolved
+upset	annoyed
+upsurge	explosion
+usable	useable
+useable	usable
+utilize	employ
+utilizes	employs
+utilizing	employing
+utmost_importance	paramount importance
+validity	reliability
+value chains	supply_chains
+vanish	disappear
+vanished	disappeared
+vanishes	disappears
+verified	ascertained
+viewpoint	standpoint
+weakened	undermined
+well_suited	ideally suited
+widen	broaden
+worsened	deteriorated
+worsening	deteriorating
+worth mentioning	worth_noting
+worth noting	should_be_noted
+worth noting	worth_mentioning
+worth pointing out	worth_noticing
+worth_mentioning	worth noting
+worth_noticing	worth pointing out
+worth_noting	worth mentioning
+would_be	might be
+yield	produce
