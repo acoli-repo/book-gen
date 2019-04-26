@@ -23,7 +23,7 @@ python3 setup.py install
 ```
 
 ### Install [Mate tools](https://code.google.com/archive/p/mate-tools/)
-and place libraries and models into the /mate directory.
+and place libraries and models into the <code>/mate</code> directory.
 
 
 ### Download [StanfordCoreNLP](https://stanfordnlp.github.io/CoreNLP/) and [citeproc-java](https://michel-kraemer.github.io/citeproc-java/)
@@ -47,7 +47,7 @@ This project is open source software and released under the [MIT license](https:
 
 ## Additional Information
 
-Note that "Beta Writer" has originally been tailored to consume and process Springer custom-specific document type formats ([A++](http://devel.springer.de/A++/V2.4/DTD/)) and does not (yet) support generic PDF.
+Note that <i><b>Beta Writer</b></i> has originally been tailored to consume and process Springer custom-specific document type formats ([A++](http://devel.springer.de/A++/V2.4/DTD/)) and does not (yet) support generic PDF.
 
 We currently provide the scripts for the major text processing tasks including:
 
