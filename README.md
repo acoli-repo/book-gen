@@ -36,7 +36,6 @@ and place .jars in <code>dist/lib</code>
 
 ## Quickstart
 The script <b>pipeline.sh</b> contains all modules for end-to-end book generation.
-run with:
 ```
 sh pipeline.sh CORPUS_DIR gen/
 ```
