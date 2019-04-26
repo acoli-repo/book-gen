@@ -26,12 +26,8 @@ python3 setup.py install
 and place libraries and models into the /mate directory.
 
 
-### Download [StanfordCoreNLP](https://stanfordnlp.github.io/CoreNLP/)
-and place .jars in <code>dist/lib</code>
-
-### Install [citeproc-java](https://michel-kraemer.github.io/citeproc-java/)
-and place .jars in <code>dist/lib</code> 
-
+### Download [StanfordCoreNLP](https://stanfordnlp.github.io/CoreNLP/) and [citeproc-java](https://michel-kraemer.github.io/citeproc-java/)
+and place .jars in <code>beta_writer/dist/lib</code> folder
 
 ## Quickstart
 The script <code>pipeline.sh</code> contains all modules for end-to-end book generation.
