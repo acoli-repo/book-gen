@@ -32,7 +32,6 @@ and place .jars in <code>dist/lib</code>
 ### Install [citeproc-java](https://michel-kraemer.github.io/citeproc-java/)
 and place .jars in <code>dist/lib</code> 
 
-(Alternatively, build beta_writer.jar yourself).
 
 ## Quickstart
 The script <b>pipeline.sh</b> contains all modules for end-to-end book generation.
