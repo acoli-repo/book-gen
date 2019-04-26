@@ -42,7 +42,7 @@ where <code>CORPUS_DIR</code> = path to your A++ files and
 
 <code>gen/</code> = directory containing all generated files
 
-Inspect book.html output in <code>gen/</code> folder.
+Inspect generated <code>book.html</code> in <code>gen/</code> folder.
 
 
 ## License
