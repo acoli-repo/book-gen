@@ -1,5 +1,5 @@
 # Experiments on Summarization-Driven Book Generation
-This repository contains the main components of the <i>prototype implementation of <b>Beta Writer</b></i>, the algorithmic author of [the first machine-generated research book published by Springer Nature](https://link.springer.com/book/10.1007/978-3-030-16800-1).
+This repository contains the main components of the <i>prototype implementation of <b>Beta Writer</b></i>, the algorithmic author of [the first machine-generated research book published by Springer Nature](https://link.springer.com/book/10.1007/978-3-030-16800-1), developed by [Niko Schenk](https://github.com/Nikoschenk), [Samuel Rönnqvist](https://github.com/sronnqvist) and other members of the Applied Computational Linguistics Lab.
 
 ---
 ## Installation
@@ -11,7 +11,6 @@ pip3 install numpy
 pip3 install sklearn
 pip3 install scipy
 pip3 install matplotlib
-pip3 install pandas
 pip3 install gensim
 ```
 
@@ -35,21 +34,22 @@ where <code>CORPUS_DIR</code> = path to your A++ files and
 
 Inspect generated <code>book.html</code> in <code>gen/</code> folder.
 
-
-## License
-This project is open source software and released under the [MIT license](https://opensource.org/licenses/MIT).
-
-
-## Additional Information
+## Description
 
 Note that <i><b>Beta Writer</b></i> has originally been tailored to consume and process Springer custom-specific document type formats ([A++](http://devel.springer.de/A++/V2.4/DTD/)) and does not (yet) support generic PDF.
 
 We currently provide the scripts for the major text processing tasks including:
 
-* Preprocessing (entity masking)
-* Document clustering (chapter generation) and visualization
+* Preprocessing (e.g., entity masking of chemical compounds with <code>mask_entities.py</code>)
+* Book structure generation (<code>mkstructure_html.py</code>) and visualization (<code>plot.py</code>)
 * Syntactic restructuring (paraphrasing)
 * Synonym generation
 
 
 For more implementational details, please refer to our [system pipeline description in Section 2.3.](https://link.springer.com/content/pdf/bfm%3A978-3-030-16800-1%2F1.pdf).
+
+
+## License
+This project is open source software and released under the [MIT license](https://opensource.org/licenses/MIT).
+
+
