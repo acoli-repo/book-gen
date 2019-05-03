@@ -15,13 +15,6 @@ pip3 install pandas
 pip3 install gensim
 ```
 
-### Download theanets from [here](https://github.com/lmjohns3/theanets)
-Alternatively: 
-```
-wget https://github.com/lmjohns3/theanets/archive/master.zip
-python3 setup.py install
-```
-
 ### Install [Mate tools](https://code.google.com/archive/p/mate-tools/)
 and place libraries and models into the <code>/mate</code> directory.
 
