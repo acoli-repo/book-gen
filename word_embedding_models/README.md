@@ -5,6 +5,8 @@ Read text files and identify frequent bigrams, replace with joined tokens (e.g.,
   
 The script performs word tokenization and phrase detection line by line. Recommended: one sentence per line.
 
+Parameters controlling bigram detection (in code): <code>min_count</code> and <code>threshold</code> on normalized pointwise mutual information (NPMI) score of bigram in corpus.
+
 Repeat to identify frequent trigrams etc. (New_York Times -> New_York_Times).
 
 # Train word vectors with n-grams
