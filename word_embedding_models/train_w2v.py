@@ -47,8 +47,13 @@ class DirReader(object):
 
 
 
-#model = gensim.models.Word2Vec(FileReader(sys.argv[1:]), size=300, min_count=20, iter=5, workers=14)
-#model.save("model_chemdump_ngrams.w2v")
+READ_DIRS = True                        
 
-model = gensim.models.Word2Vec(DirReader(sys.argv[1:]), size=300, min_count=20, iter=20, workers=14)
-model.save("model_chemdump_entities_clean.w2v")
+if READ_DIRS:
+    reader = DirReader # Scan directories for .txt files to read
+else:
+    reader = FileReader # Read files
+
+
+model = gensim.models.Word2Vec(reader(sys.argv[1:]), size=300, min_count=20, iter=20, workers=14)
+model.save("model_ngrams.w2v")
