@@ -4,7 +4,6 @@ import random
 import csv
 import logging
 import numpy as np
-import theanets
 import json
 from sklearn.metrics import classification_report, confusion_matrix
 
