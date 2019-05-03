@@ -3,6 +3,8 @@ Read text files and identify frequent bigrams, replace with joined tokens (e.g.,
 
 <code>python find_phrases.py &lt;input file 1&gt; [&lt;input file 2&gt; ...] &lt;output file&gt;</code>
   
+The script performs word tokenization and phrase detection line by line. Recommended: one sentence per line.
+
 Repeat to identify frequent trigrams etc. (New_York Times -> New_York_Times).
 
 # Train word vectors with n-grams
