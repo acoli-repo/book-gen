@@ -42,8 +42,8 @@ We currently provide the scripts for the major text processing tasks including:
 
 * Preprocessing (e.g., entity masking of chemical compounds with <code>mask_entities.py</code>)
 * Book structure generation (<code>mkstructure_html.py</code>) and visualization (<code>plot.py</code>)
-* Syntactic restructuring (paraphrasing)
-* Synonym generation
+* Syntactic restructuring (paraphrasing in (<code>restructuring.py</code>))
+* Synonym generation (<code>synonyms.py</code>)
 
 
 For more implementational details, please refer to our [system pipeline description in Section 2.3.](https://link.springer.com/content/pdf/bfm%3A978-3-030-16800-1%2F1.pdf).
