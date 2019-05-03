@@ -1,6 +1,5 @@
 import matplotlib.pyplot as plt
 import matplotlib as mpl
-import pandas as pd
 from scipy.cluster.hierarchy import ward, dendrogram
 from sklearn.metrics.pairwise import cosine_similarity
 from sklearn.manifold import MDS
