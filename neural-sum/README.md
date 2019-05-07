@@ -1,5 +1,5 @@
-# Including a neural component for the sentence selection: 
-In order to choose the sentences of the document to use for the summary, use a combination of textrank and a neural scorer component which was trained to score the sentences using information about their similarity with the abstract sentences.
+# A neural sentence selection component 
+In order to select the summary sentences, use a combination of textrank and a neural scorer component which was trained to score the sentences using information about their similarity with the abstract sentences.
 
 
 ## Pipeline description:
