@@ -64,7 +64,6 @@ data_filtered = [' '.join([term for term in tp.clean(doc.split(),stem=False)]) f
 
 
 #print("Vectorizing %d documents..." % len(data))
-# mail to zakharchenko with these configurations.
 tfidf_vectorizer = TfidfVectorizer(max_df=Max_df, max_features=Num_feats, min_df=Min_df,
 #tfidf_vectorizer = TfidfVectorizer(max_df=0.9, max_features=5000, min_df=0.01,
 	   use_idf=True, sublinear_tf=True,
