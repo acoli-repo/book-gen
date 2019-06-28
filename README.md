@@ -16,6 +16,7 @@ pip3 install gensim
 
 ### Install [Mate tools](https://code.google.com/archive/p/mate-tools/)
 and place libraries and models into the <code>/mate</code> directory.
+See [mate/README.txt](https://github.com/acoli-repo/book-gen/blob/master/mate/README.txt) for more details.
 
 
 ### Download [StanfordCoreNLP](https://stanfordnlp.github.io/CoreNLP/) and [citeproc-java](https://michel-kraemer.github.io/citeproc-java/)
