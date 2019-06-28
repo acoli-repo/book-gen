@@ -25,7 +25,9 @@ Ideally open <code>beta_writer</code> as Netbeans project, link downloaded .jar 
 The executable .jar should appear in <code>beta_writer/dist/</code>.
 
 ## Quickstart
-The script <code>pipeline.sh</code> contains all modules for end-to-end book generation.
+The script <code>pipeline.sh</code> contains all modules for end-to-end book generation. 
+
+Please point PYTHON to your local python installation (change line 32 in <code>pipeline.sh</code>)
 ```
 sh pipeline.sh CORPUS_DIR gen/
 ```
