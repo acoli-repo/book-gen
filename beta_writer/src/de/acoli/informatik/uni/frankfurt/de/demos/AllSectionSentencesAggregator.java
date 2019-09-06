@@ -58,11 +58,12 @@ import static de.acoli.informatik.uni.frankfurt.de.util.Utility.expressBrackets;
 public class AllSectionSentencesAggregator {
 
     public static String DIR = "gen/";
+    public static String SHARED_DIR = "gen/";
 
     // Reads chapter structure as produced by mkstructure.py
     public static String CHAPTER_STRUCTURE = DIR + "chap-struc.html";
     // Reference corpus (input to mkstructure.py).
-    public static String CORPUS_JSON = DIR + "corpus.json";
+    public static String CORPUS_JSON = SHARED_DIR + "corpus.json";
 
     public static boolean ALSO_ADD_OTHER_BODY_SECTIONS_APART_FROM_EXTENDED_ABSTRACT = false;
 
@@ -96,10 +97,11 @@ public class AllSectionSentencesAggregator {
 
     public static void main(String[] args) throws IOException {
 
-        if (args.length == 5) {
+        if (args.length == 6) {
             DIR = args[0]; // DIR.
+            SHARED_DIR = args[5];
             CHAPTER_STRUCTURE = DIR + "chap-struc.html";
-            CORPUS_JSON = DIR + "corpus.json";
+            CORPUS_JSON = SHARED_DIR + "corpus.json";
             PATH_TO_TEXTRANK = args[1];
             PATH_TO_PYTHON = args[2];
             EXTENDED_ABSTRACT = Boolean.parseBoolean(args[3]);

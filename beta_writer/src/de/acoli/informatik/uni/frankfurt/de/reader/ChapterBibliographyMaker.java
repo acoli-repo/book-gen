@@ -66,6 +66,7 @@ import de.acoli.informatik.uni.frankfurt.de.util.Utility;
 public class ChapterBibliographyMaker {
 
     public static String DIR = "gen/";
+    public static String SHARED_DIR = "gen/";
 
     public static String CHAPTER_STRUCTURE = "chap-struc.html";
     public static String CORPUS_JSON = "corpus.json";
@@ -75,12 +76,13 @@ public class ChapterBibliographyMaker {
 
     public static void main(String[] args) throws IOException, ParseException {
 
-        if (args.length == 1) {
+        if (args.length == 2) {
             DIR = args[0];
+            SHARED_DIR = args[1];
         }
 
         // Read in corpus.json.
-        byte[] jsonData = Files.readAllBytes(Paths.get(DIR + CORPUS_JSON));
+        byte[] jsonData = Files.readAllBytes(Paths.get(SHARED_DIR + CORPUS_JSON));
         ObjectMapper mapper = new ObjectMapper();
         List<Publication> publications = Arrays.asList(mapper.readValue(jsonData, Publication[].class));
 

@@ -57,7 +57,7 @@ public class Publication {
     public ArrayList<String> headlines;
 
     // Both headings and sections correspond to each other.
-    private ArrayList<String> bodySectionHeadings;
+    public ArrayList<String> bodySectionHeadings;
     private ArrayList<String> bodySections;
     private ArrayList<ArrayList<String>> bodySectionKeywords;
 

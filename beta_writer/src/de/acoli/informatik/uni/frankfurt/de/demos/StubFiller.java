@@ -62,6 +62,7 @@ import de.acoli.informatik.uni.frankfurt.de.util.Utility;
 public class StubFiller {
 
     public static String DIR = "gen/";
+    public static String SHARED_DIR = "gen/";
     public static String CHAP_STRUC = "chap-struc.html";
     public static String CORPUS_JSON = "corpus.json";
 
@@ -82,18 +83,19 @@ public class StubFiller {
 
     public static void main(String[] args) throws FileNotFoundException, IOException, ParseException {
 
-        if (args.length == 4) {
+        if (args.length == 5) {
             DIR = args[0];
+            SHARED_DIR = args[4];
             PATH_TO_TEXTRANK = args[1];
             PATH_TO_PYTHON = args[2];
             USE_PRECOMPUTED_SYNONYMS = Boolean.parseBoolean(args[3]); // Only for related work.
         }
 
         // Entities to be replaced in the HTML, e.g., ENTITY_15 => Fe<sup>3+</sup>
-        entitiesMap = MaskedItemsReader.getEntities(DIR + "/data/" + MaskedItemsReader.ENTITY_MAP_NAME);
+        entitiesMap = MaskedItemsReader.getEntities(SHARED_DIR + "/data/" + MaskedItemsReader.ENTITY_MAP_NAME);
 
         // Read in corpus.json.
-        byte[] jsonData = Files.readAllBytes(Paths.get(DIR + CORPUS_JSON));
+        byte[] jsonData = Files.readAllBytes(Paths.get(SHARED_DIR + CORPUS_JSON));
         ObjectMapper mapper = new ObjectMapper();
         List<Publication> publications = Arrays.asList(mapper.readValue(jsonData, Publication[].class));
 
@@ -348,12 +350,18 @@ public class StubFiller {
 
     private static String unmaskAndClean(String input) {
         // unmask every token.
-        Pattern entityPattern = Pattern.compile("ENTITY_\\d+");
+        //Pattern entityPattern = Pattern.compile("ENTITY_\\d+");
+        Pattern entityPattern = Pattern.compile("ENTITY\\d+");
         Matcher entityMatcher = entityPattern.matcher(input);
+        //if (input.contains("ENTITY")){
+        //    System.err.println("Contains entity: "+input);
+        //}
         while (entityMatcher.find()) {
             String match = entityMatcher.group();
+            System.err.println("match: "+match);
             // Replace it.
             input = input.replace(match, entitiesMap.get(match));
+            System.err.println("==> Replaced: "+input);
         }
 
         // Replace NORM-CR-XXX matches by just a [X].

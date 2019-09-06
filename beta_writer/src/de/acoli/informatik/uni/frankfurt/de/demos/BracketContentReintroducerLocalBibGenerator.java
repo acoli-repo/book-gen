@@ -74,6 +74,7 @@ public class BracketContentReintroducerLocalBibGenerator {
     static boolean verbose = false;
 
     public static String DIR = "gen/";
+    public static String SHARED_DIR ="gen/";
 
     public static String CORPUS_JSON = "corpus.json";
     public static String CHAPTER_STRUCTURE = "chap-struc.html";
@@ -132,15 +133,16 @@ public class BracketContentReintroducerLocalBibGenerator {
 
     public static void main(String[] args) throws FileNotFoundException, IOException {
 
-        if (args.length == 1) {
+        if (args.length == 2) {
             DIR = args[0];
+            SHARED_DIR = args[1];
         }
 
         LinkedHashMap<String, String> sectionToDocids = ChapterStructureReader.getSectionToDocAssignments(DIR + CHAPTER_STRUCTURE);
         int numChapters = ChapterStructureReader.getNumChapters();
 
         // Read in corpus.json.
-        byte[] jsonData = Files.readAllBytes(Paths.get(DIR + CORPUS_JSON));
+        byte[] jsonData = Files.readAllBytes(Paths.get(SHARED_DIR + CORPUS_JSON));
         ObjectMapper mapper = new ObjectMapper();
         List<Publication> publications = Arrays.asList(mapper.readValue(jsonData, Publication[].class));
 

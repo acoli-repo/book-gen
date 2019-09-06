@@ -76,7 +76,7 @@ public class APlusPlusCollectionsReader {
     public static final boolean RESOLVE_COREFERENTIAL_EXPRESSIONS = false;
 
     public static SentIDCounter sentIdCounter = null;
-    public static int MAX_DOCUMENT_COLLECTION_SIZE = 2000;
+    public static int MAX_DOCUMENT_COLLECTION_SIZE = 8000;
     public static ArrayList<Publication> pubs;
     public static String NO_DOI_MARKER = "null";
 
@@ -465,6 +465,8 @@ public class APlusPlusCollectionsReader {
             // Do some sanity checks.
             if (aPub.bodySectionsHeadingsTokens.size() != aPub.getBodySectionHeadings().size()) {
                 // Ignore this publication.
+                System.err.println(aPub.bodySectionsHeadingsTokens.toString());
+                System.err.println(aPub.bodySectionHeadings.toString());
                 System.err.println("Something wrong in the # of body sections. Ignoring this A++ file.");
             } else {
                 if (body != null) {

@@ -63,7 +63,7 @@ public class Main {
                 break;
             case "SECTION_AGGREGATOR":
                 // Aggretate introduction and conclusion sections.
-                AllSectionSentencesAggregator.main(new String[]{args[1], args[2], args[3], args[4], args[5]});
+                AllSectionSentencesAggregator.main(new String[]{args[1], args[2], args[3], args[4], args[5], args[6]});
                 break;
             case "DISTRIBUTE_PARSED_CHUNKS":
                 // Split sentences into portions.
@@ -71,14 +71,14 @@ public class Main {
                 break;
             case "REINTRODUCE_BRACKET_CONTENT":
                 // Reintroduce the content of parentheses after sententes were syntactically parsed.
-                BracketContentReintroducerLocalBibGenerator.main(new String[]{args[1]});
+                BracketContentReintroducerLocalBibGenerator.main(new String[]{args[1], args[2]});
                 break;
             case "CHAPTER_BIBLIOGRAPHY_MAKER":
                 // Generate a bibliographies.
-                ChapterBibliographyMaker.main(new String[]{args[1]});
+                ChapterBibliographyMaker.main(new String[]{args[1], args[2]});
                 break;
             case "STUB_FILLER":
-                StubFiller.main(new String[]{args[1], args[2], args[3], args[4]});
+                StubFiller.main(new String[]{args[1], args[2], args[3], args[4], args[5]});
                 break;
             case "COLLECT_NGRAMS":
                 // Compute n-grams

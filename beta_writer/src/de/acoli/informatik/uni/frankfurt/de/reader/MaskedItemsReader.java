@@ -58,7 +58,7 @@ public class MaskedItemsReader {
             if (entityMap.containsKey(items[0])) {
                 System.err.println("Key error.");
                 System.err.println(items[0] + " contained already!");
-                System.exit(0);
+                //System.exit(0);
             }
             entityMap.put(items[0], items[1]);
         }
