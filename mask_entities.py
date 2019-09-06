@@ -2,7 +2,7 @@ import re, os, sys
 import collections, json
 import xml.etree.ElementTree as ET
 
-entity_map = collections.defaultdict(lambda: 'ENTITY_%d' % len(entity_map))
+entity_map = collections.defaultdict(lambda: 'ENTITY%d' % len(entity_map))
 
 PATH=sys.argv[1]
 if not PATH.endswith('/'):
@@ -28,8 +28,11 @@ else:
     for file in os.listdir(PATH):
         found_files.append(file)
 
+print("files in dir: ", len(found_files))
+file_counter=0
 for file in found_files:
     if file.endswith('.xml') and not file.endswith('_masked.xml'):
+        no_valid_ent_found=False
         print("Reading", file)
         out = ""
         if search_recursively:
@@ -46,6 +49,7 @@ for file in found_files:
         para_beg = re.search(pat_beg, data)
         para_end = re.search(pat_end, data)
         if not para_beg or not para_end or para_beg.start() > para_end.start():
+            print("Not considering file: ", file)
             continue
         out = data[:para_beg.start()]
         tail = data[para_end.end():]
@@ -114,8 +118,13 @@ for file in found_files:
                         break
             else:
                 print("No valid entity found in:",data[entity_beg:entity_beg+700])
-                raise
+                #raise
+                no_valid_ent_found=True
+                break
                 #data = data[entity_beg+100:]
+        if no_valid_ent_found:
+            print("No valid ent found for file: ", file, " . Skipping...")
+            continue
 
         out += tail
         #root = ET.fromstring(out) # Check XML correctness
@@ -126,7 +135,9 @@ for file in found_files:
             outfile = OUTPATH+file.replace('.xml','_masked.xml')
         #print("-->", outfile)
         open(outfile, 'w').write(out)
+        file_counter+=1
 
+print("Processed files: ", file_counter)
 
 map_file = OUTPATH+"entity_map.tsv"
 print("Saving map to", map_file)
