@@ -286,38 +286,40 @@ public class SentenceSplitter {
                     sentenceStr = sentenceStr.replace(boundary, ". " + firstChar);
                 }
 
-                // Convert [~CR4~–~CR8~] into explicit [~CR4~, ~CR5~, ~CR6~, ~CR7~, ~CR8~]
-                // in order to avoid problems later with normalized CRs.
-                String crRangeRegex
-                        = Utility.CITATION_MARKER + "CR(\\d+)" + Utility.CITATION_MARKER + "–" + Utility.CITATION_MARKER + "CR(\\d+)" + Utility.CITATION_MARKER;
-                Pattern crRangePattern = Pattern.compile(crRangeRegex);
-                Matcher crRangeMatcher = crRangePattern.matcher(sentenceStr);
-                while (crRangeMatcher.find()) {
-                    //System.out.println(sentenceStr);
-                    String completeMatch = crRangeMatcher.group(0);
-                    int firstCrId = Integer.parseInt(crRangeMatcher.group(1));
-                    int lastCrId = Integer.parseInt(crRangeMatcher.group(2));
-                    //System.out.println(completeMatch + ": " + firstCrId + " " + lastCrId);
-                    if (lastCrId < firstCrId) {
-                        System.err.println("There is something wrong with this CR range id: " + completeMatch);
-                    }
-                    // Compute CRs in range.
-                    // E.g., 
-                    // ~CR12~–~CR14~: 12 14 
-                    // turned into:
-                    // ~CR12~, ~CR13~, ~CR14~
-                    StringBuilder crRangeBuilder = new StringBuilder();
-                    for (int crR = firstCrId; crR <= lastCrId; crR++) {
-                        crRangeBuilder.append(Utility.CITATION_MARKER + "CR" + crR + Utility.CITATION_MARKER);
-                        if (crR < lastCrId) {
-                            crRangeBuilder.append(",");
-                        }
-                    }
-                    // Replace the original range notation by the expanded crs.
-                    String expandedCrs = crRangeBuilder.toString();
-                    sentenceStr = sentenceStr.replace(completeMatch, expandedCrs);
-                    // the problems of solubility
-                }
+                // // Convert [~CR4~–~CR8~] into explicit [~CR4~, ~CR5~, ~CR6~, ~CR7~, ~CR8~]
+                // // in order to avoid problems later with normalized CRs.
+                // String crRangeRegex
+                        // = Utility.CITATION_MARKER + "CR(\\d+)" + Utility.CITATION_MARKER + "–" + Utility.CITATION_MARKER + "CR(\\d+)" + Utility.CITATION_MARKER;
+                // Pattern crRangePattern = Pattern.compile(crRangeRegex);
+                // Matcher crRangeMatcher = crRangePattern.matcher(sentenceStr);
+                // while (crRangeMatcher.find()) {
+                    // //System.out.println(sentenceStr);
+                    // String completeMatch = crRangeMatcher.group(0);
+                    // int firstCrId = Integer.parseInt(crRangeMatcher.group(1));
+                    // int lastCrId = Integer.parseInt(crRangeMatcher.group(2));
+                    // //System.out.println(completeMatch + ": " + firstCrId + " " + lastCrId);
+                    // if (lastCrId < firstCrId) {
+                        // System.err.println("There is something wrong with this CR range id: " + completeMatch);
+                    // }
+                    // // Compute CRs in range.
+                    // // E.g., 
+                    // // ~CR12~–~CR14~: 12 14 
+                    // // turned into:
+                    // // ~CR12~, ~CR13~, ~CR14~
+                    // StringBuilder crRangeBuilder = new StringBuilder();
+                    // for (int crR = firstCrId; crR <= lastCrId; crR++) {
+                        // crRangeBuilder.append(Utility.CITATION_MARKER + "CR" + crR + Utility.CITATION_MARKER);
+                        // if (crR < lastCrId) {
+                            // crRangeBuilder.append(",");
+                        // }
+                    // }
+                    // // Replace the original range notation by the expanded crs.
+                    // String expandedCrs = crRangeBuilder.toString();
+                    // sentenceStr = sentenceStr.replace(completeMatch, expandedCrs);
+                    // // the problems of solubility
+                // }
+				
+				sentenceStr = replaceRange(sentenceStr);
 
                 // 2.) Rerun pos tagging.
                 sentenceStr = smoothToBookSentences(sentenceStr);
@@ -346,6 +348,16 @@ public class SentenceSplitter {
                     for (CoreLabel token : sentenceRerun.get(TokensAnnotation.class)) {
                         // this is the text of the token
                         String word = token.get(TextAnnotation.class);
+                        if(word.contains("CR2848")){
+                            System.err.println("word found!!!!####: "+word);
+                        }
+                        if(word.contains("CR002847")){
+                            System.err.println("word found!!!!####: "+word);
+                        }
+                        if(word.contains("CR2847")){
+                            System.err.println("word found!!!!####: "+word);
+                            System.err.println("sentence: "+sentenceRerun.get(TokensAnnotation.class).toString());
+                        }
                         String pos = token.get(CoreAnnotations.PartOfSpeechAnnotation.class);
                         String lemma = token.get(CoreAnnotations.LemmaAnnotation.class);
                         String ner = token.get(CoreAnnotations.NamedEntityTagAnnotation.class);
@@ -513,4 +525,80 @@ public class SentenceSplitter {
         }  
         return sentenceStr.replace(" section", " chapter").replaceAll("\\s+", " ");
     }
+	
+	
+	public static String replaceRange(String rangestr) {
+		String sentenceStr = rangestr;
+		String crRangeRegex
+                        = Utility.CITATION_MARKER + "CR(\\d+)(_\\d+)*" + Utility.CITATION_MARKER + "–" + Utility.CITATION_MARKER + "CR(\\d+)(_\\d+)*" + Utility.CITATION_MARKER;
+		Pattern crRangePattern = Pattern.compile(crRangeRegex);
+		Matcher crRangeMatcher = crRangePattern.matcher(sentenceStr);
+		while (crRangeMatcher.find()) {
+			//System.out.println(sentenceStr);
+			String completeMatch = crRangeMatcher.group(0);
+			//System.out.println("complete match: "+completeMatch+" "+"org str: "+rangestr+" crrangeregex: "+crRangeRegex);
+			//System.out.println("grou 1: "+crRangeMatcher.group(1));
+			//System.out.println("grou 3: "+crRangeMatcher.group(3));
+			
+			String beforeInt = "";
+			String afterUnderscore = "";
+			String group1 = crRangeMatcher.group(1);
+			String group2 = crRangeMatcher.group(2);
+			String group3 = crRangeMatcher.group(3);
+			String group4 = crRangeMatcher.group(4);
+			
+			if(group1.startsWith("0")){
+				for (int i = 0; i < group1.length(); i++){
+					char c = group1.charAt(i);
+					if (c == '0'){
+						beforeInt+="0";
+					}
+					else break;
+				}						
+			}
+								//if(group2 != null){
+			//StringBuilder crRangeBuilder = new StringBuilder();
+								//    System.out.println("Contains _ !! "+group2);
+								//    int firstCrId = Integer.parseInt(group2.split("_")[1]);
+								//    //TODO: increment both before and after _ if necessary!
+								//    System.out.println("integer: "+firstCrId);
+								//}
+			//else {
+
+			int firstCrId = Integer.parseInt(crRangeMatcher.group(1));
+			int lastCrId = Integer.parseInt(crRangeMatcher.group(3));
+			//System.out.println(completeMatch + ": " + firstCrId + " " + lastCrId);
+			if (lastCrId < firstCrId) {
+				System.err.println("There is something wrong with this CR range id: " + completeMatch);
+			}
+			// Compute CRs in range.
+			// E.g., 
+			// ~CR12~–~CR14~: 12 14 
+			// turned into:
+			// ~CR12~, ~CR13~, ~CR14~
+			StringBuilder crRangeBuilder = new StringBuilder();
+			for (int crR = firstCrId; crR <= lastCrId; crR++) {
+				crRangeBuilder.append(Utility.CITATION_MARKER + "CR" + beforeInt + crR + Utility.CITATION_MARKER);
+				if (crR < lastCrId) {
+					crRangeBuilder.append(",");
+				}
+			}
+
+			// Replace the original range notation by the expanded crs.
+			String expandedCrs = crRangeBuilder.toString();
+			sentenceStr = sentenceStr.replace(completeMatch, expandedCrs);
+			// the problems of solubility
+		}
+
+	return sentenceStr;
+}
+//for testing; _ does not work yet
+/* public static void main(String[] args){
+	String s = replaceRange("~CR12~–~CR14~");
+System.out.println(s);	
+String s1 = replaceRange("~CR0012~–~CR0014~");
+System.out.println(s1);
+String s2 = replaceRange("~CR0012_10~–~CR0014_5~");
+System.out.println(s2);
+} */
 }
